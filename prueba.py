@@ -21,7 +21,7 @@ musica_collection.insert_many([
     {"artista": "Dua Lipa", "album": "Future Nostalgia", "genero": "Pop"},
     {"artista": "Miles Davis", "album": "Bitches Brew", "genero": "Jazz"},
     {"artista": "Led Zeppelin", "album": "IV", "genero": "Rock"},
-    {"artista": "Adele", "album": "21", "genero": "Pop"}
+    {"artista": "Adele", "album": "21", "genero": "Pop"},
     {"artista": "John Coltrane", "album": "A Love Supreme", "genero": "Jazz"},
     {"artista": "Pink Floyd", "album": "The Dark Side of the Moon", "genero": "Rock"},
     {"artista": "Billie Holiday", "album": "Lady in Satin", "genero": "Jazz"},
@@ -33,3 +33,35 @@ for musica in musica_collection.find():
     
 for musica in musica_collection.find({"genero": "Rock"}):
     print(musica)
+
+    # Filtrar por artista específico
+    for musica in musica_collection.find({"artista": "Miles Davis"}):
+        print(musica)
+
+    # Filtrar por álbum que contiene una palabra específica
+    for musica in musica_collection.find({"album": {"$regex": "Blue"}}):
+        print(musica)
+
+    # Filtrar por género y ordenar alfabéticamente por álbum
+    for musica in musica_collection.find({"genero": "Pop"}).sort("album", 1):
+        print(musica)
+
+    # Filtrar por género y excluir un campo específico en la salida
+    for musica in musica_collection.find({"genero": "Jazz"}, {"_id": 0}):
+        print(musica)
+
+    # Filtrar por múltiples géneros
+    for musica in musica_collection.find({"genero": {"$in": ["Rock", "Jazz"]}}):
+        print(musica)
+
+    # Filtrar por álbumes que no pertenecen a un género específico
+    for musica in musica_collection.find({"genero": {"$ne": "Pop"}}):
+        print(musica)
+
+    # Filtrar por artistas con más de un álbum en la colección
+    pipeline = [
+        {"$group": {"_id": "$artista", "count": {"$sum": 1}}},
+        {"$match": {"count": {"$gt": 1}}}
+    ]
+    for result in musica_collection.aggregate(pipeline):
+        print(result)
