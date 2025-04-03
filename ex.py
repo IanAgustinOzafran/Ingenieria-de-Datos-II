@@ -1,26 +1,16 @@
 from pymongo import MongoClient
 
-print("hola")
-
-# Conexión a MongoDB (reemplaza con tu URL de conexión si usas MongoDB Atlas)
+# Conectar a MongoDB (cambia la URI si usas un servidor remoto)
 client = MongoClient("mongodb://localhost:27017/")
 
-# Seleccionar la base de datos
-db = client["miBaseDeDatos"]
+# Obtener la lista de bases de datos disponibles
+db_list = client.list_database_names()
 
-# Seleccionar una colección
-coleccion = db["usuarios"]
+# Mostrar las bases de datos
+print("Bases de datos en MongoDB:")
+for db in db_list:
+    print(f"- {db}")
 
-# Insertar un documento de ejemplo
-documento = {"nombre": "Juan", "edad": 25, "ciudad": "Madrid"}
-resultado = coleccion.insert_one(documento)
-print(f"Documento insertado con ID: {resultado.inserted_id}")
-
-# Consultar documentos
-for doc in coleccion.find({"nombre": "Nico"}, {"_id": 0}):
-    print(doc)
-print("\nDocumentos en la colección:")
-# Mostrar todas las colecciones en la base de datos
-for coleccion in db.list_collection_names():
-    print("\t-"+coleccion)
+# Cerrar la conexión
+client.close()
 
