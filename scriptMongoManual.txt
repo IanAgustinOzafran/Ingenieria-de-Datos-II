@@ -1,0 +1,99 @@
+// ejecutar en mongo shell uno por uno
+
+
+
+db.Musica.insertMany([
+    { "artista": "Queen", "album": "A Night at the Opera", "genero": "Rock" },
+    { "artista": "The Beatles", "album": "Abbey Road", "genero": "Rock" },
+    { "artista": "Miles Davis", "album": "Kind of Blue", "genero": "Jazz" },
+    { "artista": "Billie Eilish", "album": "When We All Fall Asleep, Where Do We Go?", "genero": "Pop" },
+    { "artista": "Taylor Swift", "album": "1989", "genero": "Pop" },
+    { "artista": "Nirvana", "album": "Nevermind", "genero": "Rock" },
+    { "artista": "Dua Lipa", "album": "Future Nostalgia", "genero": "Pop" },
+    { "artista": "Miles Davis", "album": "Bitches Brew", "genero": "Jazz" },
+    { "artista": "Led Zeppelin", "album": "IV", "genero": "Rock" },
+    { "artista": "Adele", "album": "21", "genero": "Pop" },
+    { "artista": "John Coltrane", "album": "A Love Supreme", "genero": "Jazz" },
+    { "artista": "Pink Floyd", "album": "The Dark Side of the Moon", "genero": "Rock" },
+    { "artista": "Billie Holiday", "album": "Lady in Satin", "genero": "Jazz" },
+    { "artista": "Ed Sheeran", "album": "Divide", "genero": "Pop" },
+    { "artista": "Radiohead", "album": "OK Computer", "genero": "Alternative" },
+    { "artista": "The Rolling Stones", "album": "Let It Bleed", "genero": "Rock" },
+    { "artista": "Beyoncé", "album": "Lemonade", "genero": "Pop" },
+    { "artista": "Kendrick Lamar", "album": "To Pimp a Butterfly", "genero": "Hip-Hop" },
+    { "artista": "Eagles", "album": "Hotel California", "genero": "Rock" },
+    { "artista": "Frank Sinatra", "album": "In the Wee Small Hours", "genero": "Jazz" },
+    { "artista": "Fleetwood Mac", "album": "Rumours", "genero": "Rock" },
+    { "artista": "Michael Jackson", "album": "Thriller", "genero": "Pop" },
+    { "artista": "Bob Dylan", "album": "Highway 61 Revisited", "genero": "Folk Rock" },
+    { "artista": "The Clash", "album": "London Calling", "genero": "Punk Rock" }
+]);
+
+
+//consultar todos 
+db.Musica.find()
+
+// Filtrar por género "Rock"
+db.Musica.find({"genero": "Rock"});
+
+// Filtrar por artista específico
+db.Musica.find({"artista": "Miles Davis"});
+
+// Filtrar por álbum que contiene una palabra específica
+db.Musica.find({"album": {$regex: "Blue"}});
+
+// Filtrar por género y ordenar alfabéticamente por álbum
+db.Musica.find({"genero": "Pop"}).sort({"album": 1});
+
+// Filtrar por género y excluir un campo específico en la salida
+db.Musica.find({"genero": "Jazz"}, {"_id": 0});
+
+// Filtrar por múltiples géneros
+db.Musica.find({"genero": {$in: ["Rock", "Jazz"]}});
+
+// Filtrar por álbumes que no pertenecen a un género específico
+db.Musica.find({"genero": {$ne: "Pop"}});
+
+
+// Actualizar el género de un álbum específico
+db.Musica.updateOne({"album": "Nevermind"}, {$set: {"genero": "Grunge"}});
+
+// Cambiar el nombre del artista en un álbum específico
+db.Musica.updateOne({"album": "1989"}, {$set: {"artista": "Taylor A. Swift"}});
+
+// Actualizar el álbum de un artista específico
+db.Musica.updateOne({"artista": "Dua Lipa"}, {$set: {"album": "Future Nostalgia Deluxe"}});
+
+// Cambiar el género de todos los álbumes de un artista específico
+db.Musica.updateMany({"artista": "Miles Davis"}, {$set: {"genero": "Jazz Fusion"}});
+
+// Agregar un nuevo campo a un álbum específico
+db.Musica.updateOne({"album": "IV"}, {$set: {"año": 1971}});
+
+// Actualizar el género de todos los álbumes que contienen una palabra específica en el título
+db.Musica.updateMany({"album": {$regex: "Blue"}}, {$set: {"genero": "Classic Jazz"}});
+
+// Cambiar el nombre del artista para todos los álbumes de un género específico
+db.Musica.updateMany({"genero": "Pop"}, {$set: {"artista": "Various Artists"}});
+
+
+// Eliminar un álbum específico por nombre
+db.Musica.deleteOne({"album": "Divide"});
+
+// Eliminar todos los álbumes de un género específico
+db.Musica.deleteMany({"genero": "Grunge"});
+
+// Eliminar todos los álbumes de un artista específico
+db.Musica.deleteMany({"artista": "Various Artists"});
+
+// Eliminar álbumes cuyo nombre contiene una palabra específica
+db.Musica.deleteMany({"album": {$regex: "Blue"}});
+
+// Eliminar álbumes de un género específico y un artista específico
+db.Musica.deleteMany({"genero": "Jazz", "artista": "John Coltrane"});
+
+// Eliminar álbumes que no pertenecen a un género específico
+db.Musica.deleteMany({"genero": {$ne: "Rock"}});
+
+// Eliminar álbumes cuyo nombre de artista contiene una palabra específica
+db.Musica.deleteMany({"artista": {$regex: "Taylor"}});
