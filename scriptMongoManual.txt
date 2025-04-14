@@ -1,6 +1,8 @@
 // ejecutar en mongo shell uno por uno
 
+use TPO
 
+db.createCollection("Musica")
 
 db.Musica.insertMany([
     { "artista": "Queen", "album": "A Night at the Opera", "genero": "Rock" },
