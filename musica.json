@@ -1,1021 +1,941 @@
 [
     {
-        "titulo": "Option",
-        "anio_lanzamiento": 1997,
-        "genero": "Indie",
+        "titulo": "Happy",
+        "anio_lanzamiento": 1983,
+        "genero": "Pop",
         "artista": {
-            "nombre": "Ralph",
-            "apellido": "Hammond",
-            "pais_origen": "Croatia"
+            "nombre": "Michael",
+            "apellido": "Mckenzie",
+            "pais_origen": "Denmark"
         },
         "canciones": [
             {
-                "nombre": "Really away",
-                "duracion": "3:54"
+                "nombre": "Party can",
+                "duracion": "3:29"
             },
             {
-                "nombre": "Thing off remember",
-                "duracion": "2:53"
+                "nombre": "Successful",
+                "duracion": "2:19"
             },
             {
-                "nombre": "Air",
-                "duracion": "3:00"
+                "nombre": "They born four",
+                "duracion": "3:35"
             },
             {
-                "nombre": "Low similar",
-                "duracion": "3:32"
+                "nombre": "Cost reason also",
+                "duracion": "4:55"
             },
             {
-                "nombre": "Question",
-                "duracion": "2:02"
-            },
-            {
-                "nombre": "Here couple",
-                "duracion": "2:21"
-            },
-            {
-                "nombre": "Quite",
-                "duracion": "3:07"
-            },
-            {
-                "nombre": "Raise account character",
-                "duracion": "5:34"
-            },
-            {
-                "nombre": "Technology technology",
-                "duracion": "3:05"
-            },
-            {
-                "nombre": "At",
-                "duracion": "2:07"
-            },
-            {
-                "nombre": "Continue realize",
-                "duracion": "5:07"
+                "nombre": "Single",
+                "duracion": "3:47"
             }
         ]
     },
     {
-        "titulo": "Policy",
-        "anio_lanzamiento": 2014,
-        "genero": "Indie",
+        "titulo": "Today",
+        "anio_lanzamiento": 2009,
+        "genero": "Hip-Hop",
         "artista": {
-            "nombre": "Larry",
-            "apellido": "Daugherty",
-            "pais_origen": "Uzbekistan"
+            "nombre": "Michael",
+            "apellido": "Mckenzie",
+            "pais_origen": "Denmark"
         },
         "canciones": [
             {
-                "nombre": "East relate improve physical",
+                "nombre": "Player family",
+                "duracion": "4:14"
+            },
+            {
+                "nombre": "Expect",
+                "duracion": "3:38"
+            },
+            {
+                "nombre": "Sometimes perform",
+                "duracion": "2:57"
+            },
+            {
+                "nombre": "Fill eat",
+                "duracion": "2:25"
+            },
+            {
+                "nombre": "Another base",
                 "duracion": "2:29"
             },
             {
-                "nombre": "Choose",
-                "duracion": "5:39"
-            },
-            {
-                "nombre": "Over member",
-                "duracion": "3:28"
-            },
-            {
-                "nombre": "Seek",
-                "duracion": "3:37"
-            },
-            {
-                "nombre": "Artist learn whose",
-                "duracion": "4:40"
-            },
-            {
-                "nombre": "Share",
-                "duracion": "5:18"
-            },
-            {
-                "nombre": "Fall instead wind air describe",
-                "duracion": "3:14"
-            },
-            {
-                "nombre": "Our such",
-                "duracion": "4:08"
-            },
-            {
-                "nombre": "Staff",
-                "duracion": "4:59"
-            },
-            {
-                "nombre": "Begin big",
-                "duracion": "2:58"
-            },
-            {
-                "nombre": "Question",
-                "duracion": "5:59"
-            },
-            {
-                "nombre": "Travel",
-                "duracion": "3:57"
-            },
-            {
-                "nombre": "Vote surface",
-                "duracion": "5:02"
-            },
-            {
-                "nombre": "Perform worker",
-                "duracion": "2:48"
-            }
-        ]
-    },
-    {
-        "titulo": "Could position",
-        "anio_lanzamiento": 2010,
-        "genero": "Reggaeton",
-        "artista": {
-            "nombre": "Dylan",
-            "apellido": "Hicks",
-            "pais_origen": "Gibraltar"
-        },
-        "canciones": [
-            {
-                "nombre": "Forget hit",
-                "duracion": "5:50"
-            },
-            {
-                "nombre": "Assume Mrs authority radio",
-                "duracion": "2:49"
-            },
-            {
-                "nombre": "Their strategy",
-                "duracion": "2:00"
-            },
-            {
-                "nombre": "Adult",
-                "duracion": "5:49"
-            },
-            {
-                "nombre": "Free",
-                "duracion": "5:45"
-            },
-            {
-                "nombre": "Create identify yet",
-                "duracion": "2:42"
-            }
-        ]
-    },
-    {
-        "titulo": "Open",
-        "anio_lanzamiento": 2014,
-        "genero": "Funk",
-        "artista": {
-            "nombre": "Kenneth",
-            "apellido": "Wolf",
-            "pais_origen": "Ghana"
-        },
-        "canciones": [
-            {
-                "nombre": "Difficult account he phone",
-                "duracion": "2:09"
-            },
-            {
-                "nombre": "Feeling deal any matter",
-                "duracion": "4:13"
-            },
-            {
-                "nombre": "Movement wear design population",
-                "duracion": "2:07"
-            },
-            {
-                "nombre": "Pay this speak",
-                "duracion": "2:36"
-            },
-            {
-                "nombre": "Black factor woman",
-                "duracion": "5:52"
-            }
-        ]
-    },
-    {
-        "titulo": "Another",
-        "anio_lanzamiento": 2016,
-        "genero": "Cl\u00e1sica",
-        "artista": {
-            "nombre": "Ralph",
-            "apellido": "Hammond",
-            "pais_origen": "Croatia"
-        },
-        "canciones": [
-            {
-                "nombre": "Lay whole",
-                "duracion": "4:35"
-            },
-            {
-                "nombre": "Ability",
-                "duracion": "4:22"
-            },
-            {
-                "nombre": "Pay career student",
-                "duracion": "5:31"
-            },
-            {
-                "nombre": "Concern heavy against",
-                "duracion": "5:29"
-            },
-            {
-                "nombre": "Modern structure great",
-                "duracion": "4:53"
-            },
-            {
-                "nombre": "Feeling understand",
-                "duracion": "4:08"
-            },
-            {
-                "nombre": "Report",
-                "duracion": "3:49"
-            },
-            {
-                "nombre": "Onto",
-                "duracion": "3:26"
-            },
-            {
-                "nombre": "Finish oil",
-                "duracion": "3:27"
-            },
-            {
-                "nombre": "Industry",
-                "duracion": "2:17"
-            },
-            {
-                "nombre": "Bank",
-                "duracion": "2:08"
-            },
-            {
-                "nombre": "Hospital left",
-                "duracion": "4:19"
-            },
-            {
-                "nombre": "Daughter",
-                "duracion": "5:54"
-            },
-            {
-                "nombre": "Only enter feeling stop",
-                "duracion": "2:50"
-            },
-            {
-                "nombre": "Star",
-                "duracion": "5:37"
-            }
-        ]
-    },
-    {
-        "titulo": "Present",
-        "anio_lanzamiento": 2002,
-        "genero": "Funk",
-        "artista": {
-            "nombre": "Kimberly",
-            "apellido": "Richards",
-            "pais_origen": "Senegal"
-        },
-        "canciones": [
-            {
-                "nombre": "Long",
-                "duracion": "2:30"
-            },
-            {
-                "nombre": "Eat skin win list",
-                "duracion": "4:18"
-            },
-            {
-                "nombre": "Design run help information",
-                "duracion": "5:01"
-            },
-            {
-                "nombre": "Leave political",
-                "duracion": "2:11"
-            },
-            {
-                "nombre": "Set decision impact perhaps purpose",
-                "duracion": "2:27"
-            },
-            {
-                "nombre": "Decision",
-                "duracion": "4:17"
-            },
-            {
-                "nombre": "Product",
-                "duracion": "3:46"
-            }
-        ]
-    },
-    {
-        "titulo": "Point recent",
-        "anio_lanzamiento": 1987,
-        "genero": "Pop",
-        "artista": {
-            "nombre": "Ralph",
-            "apellido": "Hammond",
-            "pais_origen": "Croatia"
-        },
-        "canciones": [
-            {
-                "nombre": "It",
-                "duracion": "2:17"
-            },
-            {
-                "nombre": "Find necessary senior",
-                "duracion": "3:09"
-            },
-            {
-                "nombre": "Left",
-                "duracion": "5:01"
-            },
-            {
-                "nombre": "Positive Mrs",
-                "duracion": "2:23"
-            },
-            {
-                "nombre": "Suggest kid",
-                "duracion": "4:13"
-            },
-            {
-                "nombre": "Special coach amount",
-                "duracion": "5:20"
-            },
-            {
-                "nombre": "Recognize provide administration",
-                "duracion": "5:32"
-            },
-            {
-                "nombre": "Cold like",
-                "duracion": "4:41"
-            },
-            {
-                "nombre": "Article require effect seem everybody",
-                "duracion": "2:49"
-            }
-        ]
-    },
-    {
-        "titulo": "National matter yeah",
-        "anio_lanzamiento": 2024,
-        "genero": "Indie",
-        "artista": {
-            "nombre": "Larry",
-            "apellido": "Daugherty",
-            "pais_origen": "Uzbekistan"
-        },
-        "canciones": [
-            {
-                "nombre": "Ability",
-                "duracion": "4:50"
-            },
-            {
-                "nombre": "Use shake",
-                "duracion": "5:11"
-            },
-            {
-                "nombre": "Whose business key",
-                "duracion": "5:40"
-            },
-            {
-                "nombre": "Teacher",
-                "duracion": "3:36"
-            },
-            {
-                "nombre": "Alone",
-                "duracion": "5:19"
-            },
-            {
-                "nombre": "Mean kitchen",
-                "duracion": "3:54"
-            },
-            {
-                "nombre": "Kitchen worry",
-                "duracion": "3:24"
-            }
-        ]
-    },
-    {
-        "titulo": "Consumer",
-        "anio_lanzamiento": 1993,
-        "genero": "Funk",
-        "artista": {
-            "nombre": "Larry",
-            "apellido": "Daugherty",
-            "pais_origen": "Uzbekistan"
-        },
-        "canciones": [
-            {
-                "nombre": "Stage outside bag sport wife",
-                "duracion": "4:16"
-            },
-            {
-                "nombre": "Save smile brother south yet",
-                "duracion": "5:23"
-            },
-            {
-                "nombre": "Wonder",
-                "duracion": "4:10"
-            },
-            {
-                "nombre": "Science",
-                "duracion": "2:18"
-            },
-            {
-                "nombre": "Newspaper consumer hold popular",
-                "duracion": "5:03"
-            },
-            {
-                "nombre": "Yes benefit affect",
-                "duracion": "3:47"
-            },
-            {
-                "nombre": "Sometimes within remain more",
-                "duracion": "3:46"
-            }
-        ]
-    },
-    {
-        "titulo": "Push",
-        "anio_lanzamiento": 1994,
-        "genero": "Hip-Hop",
-        "artista": {
-            "nombre": "Larry",
-            "apellido": "Daugherty",
-            "pais_origen": "Uzbekistan"
-        },
-        "canciones": [
-            {
-                "nombre": "Blue figure deal",
-                "duracion": "3:03"
-            },
-            {
-                "nombre": "Meet",
-                "duracion": "4:25"
-            },
-            {
-                "nombre": "Form",
-                "duracion": "4:20"
-            },
-            {
-                "nombre": "Up poor offer",
-                "duracion": "5:20"
-            },
-            {
-                "nombre": "Create",
-                "duracion": "2:59"
-            },
-            {
-                "nombre": "Experience across price through pay",
-                "duracion": "3:22"
-            },
-            {
-                "nombre": "Indicate",
-                "duracion": "4:05"
-            },
-            {
-                "nombre": "Civil",
-                "duracion": "3:40"
-            },
-            {
-                "nombre": "Decision actually idea early",
-                "duracion": "3:37"
-            },
-            {
-                "nombre": "Live stage third",
-                "duracion": "5:59"
-            },
-            {
-                "nombre": "Prepare alone interview",
-                "duracion": "2:51"
-            },
-            {
-                "nombre": "Sing",
-                "duracion": "5:17"
-            }
-        ]
-    },
-    {
-        "titulo": "Price particular continue",
-        "anio_lanzamiento": 1993,
-        "genero": "Reggaeton",
-        "artista": {
-            "nombre": "Kenneth",
-            "apellido": "Wolf",
-            "pais_origen": "Ghana"
-        },
-        "canciones": [
-            {
-                "nombre": "Husband debate message collection",
-                "duracion": "2:36"
-            },
-            {
-                "nombre": "Source",
-                "duracion": "4:00"
-            },
-            {
-                "nombre": "You",
-                "duracion": "4:10"
-            },
-            {
-                "nombre": "Interest",
-                "duracion": "5:45"
-            },
-            {
-                "nombre": "Gas",
-                "duracion": "2:09"
-            },
-            {
-                "nombre": "Close",
-                "duracion": "3:58"
-            },
-            {
-                "nombre": "Then through",
-                "duracion": "5:30"
-            },
-            {
-                "nombre": "Science behind box positive",
-                "duracion": "2:04"
-            },
-            {
-                "nombre": "Term political long",
-                "duracion": "4:20"
-            },
-            {
-                "nombre": "Hour",
-                "duracion": "2:26"
-            }
-        ]
-    },
-    {
-        "titulo": "Security",
-        "anio_lanzamiento": 2010,
-        "genero": "Reggaeton",
-        "artista": {
-            "nombre": "Robert",
-            "apellido": "Alvarez",
-            "pais_origen": "Panama"
-        },
-        "canciones": [
-            {
-                "nombre": "Former fish",
+                "nombre": "Avoid important care",
                 "duracion": "3:17"
             },
             {
-                "nombre": "Respond stock thing",
-                "duracion": "3:41"
+                "nombre": "Instead",
+                "duracion": "2:08"
             },
             {
-                "nombre": "Human",
-                "duracion": "2:40"
+                "nombre": "No maintain past quite product",
+                "duracion": "2:21"
             },
             {
-                "nombre": "Whose",
-                "duracion": "3:01"
+                "nombre": "Gas practice so",
+                "duracion": "4:22"
             },
             {
-                "nombre": "Organization",
-                "duracion": "4:42"
+                "nombre": "Officer situation culture focus",
+                "duracion": "4:56"
             },
             {
-                "nombre": "Likely",
-                "duracion": "3:30"
-            },
-            {
-                "nombre": "Onto",
-                "duracion": "4:19"
-            },
-            {
-                "nombre": "Other",
-                "duracion": "4:23"
-            },
-            {
-                "nombre": "Seven shoulder rate policy",
-                "duracion": "4:39"
-            },
-            {
-                "nombre": "Sing",
-                "duracion": "5:45"
-            },
-            {
-                "nombre": "Offer attack",
-                "duracion": "5:58"
-            },
-            {
-                "nombre": "Activity",
-                "duracion": "4:00"
+                "nombre": "Blood",
+                "duracion": "4:50"
             }
         ]
     },
     {
-        "titulo": "Animal",
-        "anio_lanzamiento": 1986,
-        "genero": "Pop",
+        "titulo": "Know discussion soldier baby meeting",
+        "anio_lanzamiento": 1981,
+        "genero": "Indie",
         "artista": {
-            "nombre": "Kenneth",
-            "apellido": "Wolf",
-            "pais_origen": "Ghana"
+            "nombre": "Stacy",
+            "apellido": "Powell",
+            "pais_origen": "Nigeria"
         },
         "canciones": [
             {
-                "nombre": "Usually back",
-                "duracion": "2:13"
+                "nombre": "Member know moment",
+                "duracion": "4:25"
             },
             {
-                "nombre": "Audience strong",
-                "duracion": "3:36"
-            },
-            {
-                "nombre": "Doctor enough read",
+                "nombre": "Often usually",
                 "duracion": "4:29"
             },
             {
-                "nombre": "White spend guess",
-                "duracion": "5:01"
+                "nombre": "Notice",
+                "duracion": "2:17"
             },
             {
-                "nombre": "She project",
-                "duracion": "2:24"
+                "nombre": "Ok",
+                "duracion": "2:22"
             },
             {
-                "nombre": "Deal lay",
-                "duracion": "4:51"
+                "nombre": "High",
+                "duracion": "4:15"
             },
             {
-                "nombre": "Doctor fact program as industry",
-                "duracion": "2:44"
-            },
-            {
-                "nombre": "Behavior approach computer",
-                "duracion": "3:06"
-            },
-            {
-                "nombre": "Statement career",
-                "duracion": "4:09"
-            },
-            {
-                "nombre": "End north leave",
-                "duracion": "2:37"
-            },
-            {
-                "nombre": "Center",
-                "duracion": "4:17"
-            },
-            {
-                "nombre": "Hair individual",
-                "duracion": "4:53"
-            },
-            {
-                "nombre": "Professor get wrong street",
-                "duracion": "5:23"
-            },
-            {
-                "nombre": "Purpose realize",
-                "duracion": "2:31"
-            },
-            {
-                "nombre": "Role hope purpose difficult",
-                "duracion": "4:17"
-            }
-        ]
-    },
-    {
-        "titulo": "Sort",
-        "anio_lanzamiento": 2013,
-        "genero": "Rock",
-        "artista": {
-            "nombre": "Cynthia",
-            "apellido": "Moore",
-            "pais_origen": "Australia"
-        },
-        "canciones": [
-            {
-                "nombre": "Second piece",
-                "duracion": "3:14"
-            },
-            {
-                "nombre": "Vote",
-                "duracion": "4:13"
-            },
-            {
-                "nombre": "Focus",
-                "duracion": "2:32"
-            },
-            {
-                "nombre": "Chair",
-                "duracion": "5:23"
-            },
-            {
-                "nombre": "Phone",
-                "duracion": "4:11"
-            },
-            {
-                "nombre": "Defense we fight hold",
-                "duracion": "5:44"
-            },
-            {
-                "nombre": "Pressure behind save not",
-                "duracion": "3:33"
-            },
-            {
-                "nombre": "Hour",
-                "duracion": "4:21"
-            },
-            {
-                "nombre": "Second",
-                "duracion": "4:30"
-            },
-            {
-                "nombre": "All past",
+                "nombre": "Turn",
                 "duracion": "3:51"
             },
             {
-                "nombre": "Police boy",
-                "duracion": "5:58"
+                "nombre": "Kind send shake car",
+                "duracion": "5:08"
             },
             {
-                "nombre": "Professor",
-                "duracion": "2:34"
-            }
-        ]
-    },
-    {
-        "titulo": "Power professor box",
-        "anio_lanzamiento": 2020,
-        "genero": "Pop",
-        "artista": {
-            "nombre": "Cynthia",
-            "apellido": "Moore",
-            "pais_origen": "Australia"
-        },
-        "canciones": [
-            {
-                "nombre": "Quite",
-                "duracion": "2:55"
-            },
-            {
-                "nombre": "Democrat",
-                "duracion": "2:39"
-            },
-            {
-                "nombre": "Dream",
-                "duracion": "4:34"
-            },
-            {
-                "nombre": "We help",
-                "duracion": "3:45"
-            },
-            {
-                "nombre": "Color light",
-                "duracion": "5:50"
-            },
-            {
-                "nombre": "Research",
-                "duracion": "3:43"
-            }
-        ]
-    },
-    {
-        "titulo": "Accept",
-        "anio_lanzamiento": 1982,
-        "genero": "Indie",
-        "artista": {
-            "nombre": "Terrence",
-            "apellido": "Ortiz",
-            "pais_origen": "Montenegro"
-        },
-        "canciones": [
-            {
-                "nombre": "What",
-                "duracion": "5:04"
-            },
-            {
-                "nombre": "Find",
-                "duracion": "4:23"
-            },
-            {
-                "nombre": "Recognize",
-                "duracion": "2:34"
-            },
-            {
-                "nombre": "Nation",
-                "duracion": "4:17"
-            },
-            {
-                "nombre": "Case",
-                "duracion": "4:18"
-            },
-            {
-                "nombre": "Conference",
-                "duracion": "4:38"
-            },
-            {
-                "nombre": "However",
-                "duracion": "4:04"
-            },
-            {
-                "nombre": "Create",
-                "duracion": "5:25"
-            },
-            {
-                "nombre": "Amount really include",
-                "duracion": "3:01"
-            },
-            {
-                "nombre": "Of",
-                "duracion": "2:29"
-            }
-        ]
-    },
-    {
-        "titulo": "Really red",
-        "anio_lanzamiento": 2008,
-        "genero": "Reggaeton",
-        "artista": {
-            "nombre": "James",
-            "apellido": "Dawson",
-            "pais_origen": "Nauru"
-        },
-        "canciones": [
-            {
-                "nombre": "Out",
-                "duracion": "3:15"
-            },
-            {
-                "nombre": "Guess away",
-                "duracion": "5:38"
-            },
-            {
-                "nombre": "Particular she",
-                "duracion": "5:32"
-            },
-            {
-                "nombre": "To",
-                "duracion": "5:46"
-            },
-            {
-                "nombre": "Garden citizen",
-                "duracion": "4:09"
-            },
-            {
-                "nombre": "Whether three society",
-                "duracion": "3:32"
-            },
-            {
-                "nombre": "Soon direction available",
-                "duracion": "3:06"
-            },
-            {
-                "nombre": "Help",
-                "duracion": "4:34"
-            },
-            {
-                "nombre": "Follow",
-                "duracion": "3:42"
-            },
-            {
-                "nombre": "Across",
+                "nombre": "Baby",
                 "duracion": "5:29"
             },
             {
-                "nombre": "Quickly management yourself",
-                "duracion": "3:40"
-            },
-            {
-                "nombre": "Story",
-                "duracion": "4:21"
-            }
-        ]
-    },
-    {
-        "titulo": "Drop particular",
-        "anio_lanzamiento": 1994,
-        "genero": "Hip-Hop",
-        "artista": {
-            "nombre": "Terrence",
-            "apellido": "Ortiz",
-            "pais_origen": "Montenegro"
-        },
-        "canciones": [
-            {
-                "nombre": "Partner",
-                "duracion": "3:18"
-            },
-            {
-                "nombre": "Probably course",
-                "duracion": "3:06"
-            },
-            {
-                "nombre": "Action possible even politics",
-                "duracion": "5:56"
-            },
-            {
-                "nombre": "Door couple",
-                "duracion": "3:40"
-            },
-            {
-                "nombre": "Poor full marriage",
-                "duracion": "5:34"
-            }
-        ]
-    },
-    {
-        "titulo": "Western there interest federal there",
-        "anio_lanzamiento": 2019,
-        "genero": "Indie",
-        "artista": {
-            "nombre": "Terrence",
-            "apellido": "Ortiz",
-            "pais_origen": "Montenegro"
-        },
-        "canciones": [
-            {
-                "nombre": "Consumer event",
-                "duracion": "5:47"
-            },
-            {
-                "nombre": "Suddenly thousand",
-                "duracion": "5:31"
-            },
-            {
-                "nombre": "Style",
-                "duracion": "4:44"
-            },
-            {
-                "nombre": "Protect nor",
-                "duracion": "5:44"
-            },
-            {
-                "nombre": "Future",
-                "duracion": "2:52"
-            }
-        ]
-    },
-    {
-        "titulo": "Management",
-        "anio_lanzamiento": 1995,
-        "genero": "Jazz",
-        "artista": {
-            "nombre": "Ralph",
-            "apellido": "Hammond",
-            "pais_origen": "Croatia"
-        },
-        "canciones": [
-            {
-                "nombre": "Our week",
-                "duracion": "5:21"
-            },
-            {
-                "nombre": "Describe",
+                "nombre": "End future",
                 "duracion": "2:12"
             },
             {
-                "nombre": "Man money",
-                "duracion": "4:42"
+                "nombre": "Senior",
+                "duracion": "2:07"
             },
             {
-                "nombre": "Identify bag stop rock it",
-                "duracion": "3:07"
+                "nombre": "Sometimes",
+                "duracion": "3:30"
             },
             {
-                "nombre": "Type",
-                "duracion": "5:14"
+                "nombre": "Road all",
+                "duracion": "2:30"
             },
             {
-                "nombre": "Enjoy window",
-                "duracion": "4:37"
+                "nombre": "Physical walk despite",
+                "duracion": "3:15"
             },
             {
-                "nombre": "Increase",
+                "nombre": "Rule",
+                "duracion": "4:27"
+            },
+            {
+                "nombre": "Everyone",
+                "duracion": "5:19"
+            }
+        ]
+    },
+    {
+        "titulo": "Realize",
+        "anio_lanzamiento": 1981,
+        "genero": "Funk",
+        "artista": {
+            "nombre": "Clayton",
+            "apellido": "Moore",
+            "pais_origen": "Central African Republic"
+        },
+        "canciones": [
+            {
+                "nombre": "Avoid toward six",
+                "duracion": "3:35"
+            },
+            {
+                "nombre": "Blood young",
+                "duracion": "5:30"
+            },
+            {
+                "nombre": "Lead",
+                "duracion": "2:17"
+            },
+            {
+                "nombre": "Organization Mrs",
+                "duracion": "5:42"
+            },
+            {
+                "nombre": "Age",
+                "duracion": "2:55"
+            },
+            {
+                "nombre": "Follow less western particular",
+                "duracion": "2:34"
+            },
+            {
+                "nombre": "Structure",
+                "duracion": "5:01"
+            },
+            {
+                "nombre": "Visit dog friend sometimes",
                 "duracion": "2:41"
             },
             {
-                "nombre": "Affect generation",
-                "duracion": "2:29"
+                "nombre": "Card popular PM writer",
+                "duracion": "3:47"
             },
             {
-                "nombre": "Wear others",
-                "duracion": "5:52"
+                "nombre": "Day better total none",
+                "duracion": "4:37"
             },
             {
-                "nombre": "Name",
-                "duracion": "5:56"
+                "nombre": "Message join",
+                "duracion": "3:25"
             },
             {
-                "nombre": "Cut standard single there value",
+                "nombre": "Even",
+                "duracion": "4:26"
+            },
+            {
+                "nombre": "Fear that",
+                "duracion": "2:08"
+            },
+            {
+                "nombre": "Other better",
+                "duracion": "5:48"
+            },
+            {
+                "nombre": "Middle",
+                "duracion": "3:40"
+            }
+        ]
+    },
+    {
+        "titulo": "Husband",
+        "anio_lanzamiento": 1996,
+        "genero": "Funk",
+        "artista": {
+            "nombre": "Kim",
+            "apellido": "Glass",
+            "pais_origen": "Greece"
+        },
+        "canciones": [
+            {
+                "nombre": "Easy beat",
+                "duracion": "4:10"
+            },
+            {
+                "nombre": "Teach accept raise cover",
+                "duracion": "3:18"
+            },
+            {
+                "nombre": "Without some yard sea",
+                "duracion": "5:13"
+            },
+            {
+                "nombre": "Hear",
+                "duracion": "4:56"
+            },
+            {
+                "nombre": "Tough",
+                "duracion": "3:31"
+            },
+            {
+                "nombre": "Economy",
+                "duracion": "3:06"
+            }
+        ]
+    },
+    {
+        "titulo": "Force political necessary",
+        "anio_lanzamiento": 1991,
+        "genero": "Cl\u00e1sica",
+        "artista": {
+            "nombre": "Austin",
+            "apellido": "Johnson",
+            "pais_origen": "Reunion"
+        },
+        "canciones": [
+            {
+                "nombre": "Town section American",
+                "duracion": "3:07"
+            },
+            {
+                "nombre": "Everything special",
+                "duracion": "2:23"
+            },
+            {
+                "nombre": "Thousand easy",
+                "duracion": "3:13"
+            },
+            {
+                "nombre": "Push recent",
+                "duracion": "3:07"
+            },
+            {
+                "nombre": "Range president seven form",
+                "duracion": "2:09"
+            },
+            {
+                "nombre": "Rate",
+                "duracion": "2:32"
+            },
+            {
+                "nombre": "Fall option",
+                "duracion": "2:00"
+            },
+            {
+                "nombre": "Various",
+                "duracion": "3:58"
+            },
+            {
+                "nombre": "They condition save",
+                "duracion": "4:06"
+            }
+        ]
+    },
+    {
+        "titulo": "Help forward",
+        "anio_lanzamiento": 1987,
+        "genero": "Jazz",
+        "artista": {
+            "nombre": "Jay",
+            "apellido": "Lopez",
+            "pais_origen": "United States Minor Outlying Islands"
+        },
+        "canciones": [
+            {
+                "nombre": "Operation six sell glass whole",
+                "duracion": "4:22"
+            },
+            {
+                "nombre": "Us",
+                "duracion": "3:26"
+            },
+            {
+                "nombre": "Add",
+                "duracion": "4:54"
+            },
+            {
+                "nombre": "Teacher ask",
+                "duracion": "3:45"
+            },
+            {
+                "nombre": "College",
+                "duracion": "2:12"
+            },
+            {
+                "nombre": "Seven look",
+                "duracion": "2:45"
+            },
+            {
+                "nombre": "Guess character memory",
+                "duracion": "2:06"
+            },
+            {
+                "nombre": "Image particular",
+                "duracion": "2:27"
+            },
+            {
+                "nombre": "Everyone society meet",
+                "duracion": "5:12"
+            },
+            {
+                "nombre": "Fear lead magazine century take",
+                "duracion": "4:49"
+            },
+            {
+                "nombre": "Together class",
+                "duracion": "4:27"
+            },
+            {
+                "nombre": "Modern",
+                "duracion": "2:52"
+            },
+            {
+                "nombre": "Green",
+                "duracion": "5:25"
+            },
+            {
+                "nombre": "Worker phone create boy",
+                "duracion": "5:17"
+            },
+            {
+                "nombre": "Total",
+                "duracion": "3:51"
+            }
+        ]
+    },
+    {
+        "titulo": "Off hear study food above",
+        "anio_lanzamiento": 1983,
+        "genero": "Cl\u00e1sica",
+        "artista": {
+            "nombre": "Michael",
+            "apellido": "Mckenzie",
+            "pais_origen": "Denmark"
+        },
+        "canciones": [
+            {
+                "nombre": "Lose under",
+                "duracion": "4:50"
+            },
+            {
+                "nombre": "Tax push",
+                "duracion": "3:22"
+            },
+            {
+                "nombre": "Simply nice",
+                "duracion": "5:10"
+            },
+            {
+                "nombre": "You",
+                "duracion": "4:08"
+            },
+            {
+                "nombre": "Doctor notice girl",
+                "duracion": "5:49"
+            },
+            {
+                "nombre": "Practice pressure",
+                "duracion": "5:28"
+            },
+            {
+                "nombre": "Step",
+                "duracion": "4:04"
+            },
+            {
+                "nombre": "Attack wide movement address",
+                "duracion": "2:47"
+            },
+            {
+                "nombre": "Choose process",
+                "duracion": "4:43"
+            }
+        ]
+    },
+    {
+        "titulo": "Create",
+        "anio_lanzamiento": 1991,
+        "genero": "Jazz",
+        "artista": {
+            "nombre": "Michael",
+            "apellido": "Mckenzie",
+            "pais_origen": "Denmark"
+        },
+        "canciones": [
+            {
+                "nombre": "Miss about media tend",
+                "duracion": "3:22"
+            },
+            {
+                "nombre": "Energy",
+                "duracion": "3:30"
+            },
+            {
+                "nombre": "Institution",
+                "duracion": "4:37"
+            },
+            {
+                "nombre": "Fire",
+                "duracion": "4:16"
+            },
+            {
+                "nombre": "Year",
+                "duracion": "2:56"
+            },
+            {
+                "nombre": "Process",
+                "duracion": "4:35"
+            }
+        ]
+    },
+    {
+        "titulo": "Quickly know very dark",
+        "anio_lanzamiento": 2006,
+        "genero": "Pop",
+        "artista": {
+            "nombre": "Robert",
+            "apellido": "Poole",
+            "pais_origen": "Christmas Island"
+        },
+        "canciones": [
+            {
+                "nombre": "Her tax son data very",
+                "duracion": "5:51"
+            },
+            {
+                "nombre": "Wind some marriage stop",
+                "duracion": "4:18"
+            },
+            {
+                "nombre": "Fire",
+                "duracion": "3:53"
+            },
+            {
+                "nombre": "Between prevent",
+                "duracion": "3:11"
+            },
+            {
+                "nombre": "Prepare commercial simple",
+                "duracion": "3:31"
+            },
+            {
+                "nombre": "Five good",
+                "duracion": "2:32"
+            },
+            {
+                "nombre": "Republican",
+                "duracion": "5:40"
+            },
+            {
+                "nombre": "Two",
+                "duracion": "4:40"
+            },
+            {
+                "nombre": "Budget",
+                "duracion": "4:54"
+            },
+            {
+                "nombre": "Serious",
+                "duracion": "2:44"
+            }
+        ]
+    },
+    {
+        "titulo": "Meet",
+        "anio_lanzamiento": 1996,
+        "genero": "Hip-Hop",
+        "artista": {
+            "nombre": "Kim",
+            "apellido": "Glass",
+            "pais_origen": "Greece"
+        },
+        "canciones": [
+            {
+                "nombre": "Memory",
+                "duracion": "3:57"
+            },
+            {
+                "nombre": "Movement election",
+                "duracion": "3:55"
+            },
+            {
+                "nombre": "Mind",
+                "duracion": "4:36"
+            },
+            {
+                "nombre": "Meet military home",
+                "duracion": "5:49"
+            },
+            {
+                "nombre": "Coach program",
+                "duracion": "3:47"
+            },
+            {
+                "nombre": "Everybody",
+                "duracion": "4:19"
+            },
+            {
+                "nombre": "Response",
+                "duracion": "2:06"
+            },
+            {
+                "nombre": "Apply",
+                "duracion": "2:16"
+            },
+            {
+                "nombre": "Stage case",
+                "duracion": "5:51"
+            },
+            {
+                "nombre": "Practice",
+                "duracion": "3:07"
+            },
+            {
+                "nombre": "Capital decide",
+                "duracion": "4:57"
+            },
+            {
+                "nombre": "Cover into",
+                "duracion": "3:06"
+            },
+            {
+                "nombre": "Candidate pattern he approach",
+                "duracion": "3:57"
+            },
+            {
+                "nombre": "Become",
+                "duracion": "5:59"
+            }
+        ]
+    },
+    {
+        "titulo": "Have election none cover",
+        "anio_lanzamiento": 1987,
+        "genero": "Funk",
+        "artista": {
+            "nombre": "Mark",
+            "apellido": "Williams",
+            "pais_origen": "Honduras"
+        },
+        "canciones": [
+            {
+                "nombre": "Operation home",
+                "duracion": "3:29"
+            },
+            {
+                "nombre": "Question lay whole",
+                "duracion": "3:08"
+            },
+            {
+                "nombre": "Reality gas",
+                "duracion": "3:13"
+            },
+            {
+                "nombre": "Institution",
+                "duracion": "2:55"
+            },
+            {
+                "nombre": "Rule level",
+                "duracion": "2:40"
+            }
+        ]
+    },
+    {
+        "titulo": "Election",
+        "anio_lanzamiento": 2000,
+        "genero": "Reggaeton",
+        "artista": {
+            "nombre": "Justin",
+            "apellido": "Wiggins",
+            "pais_origen": "Slovakia (Slovak Republic)"
+        },
+        "canciones": [
+            {
+                "nombre": "Candidate",
+                "duracion": "5:54"
+            },
+            {
+                "nombre": "Low television",
+                "duracion": "4:30"
+            },
+            {
+                "nombre": "Role say another catch",
+                "duracion": "2:33"
+            },
+            {
+                "nombre": "Program",
+                "duracion": "4:48"
+            },
+            {
+                "nombre": "Fine scientist animal",
+                "duracion": "3:46"
+            },
+            {
+                "nombre": "Pretty force",
+                "duracion": "2:59"
+            },
+            {
+                "nombre": "Food",
+                "duracion": "2:00"
+            },
+            {
+                "nombre": "And key",
+                "duracion": "3:20"
+            }
+        ]
+    },
+    {
+        "titulo": "Scientist",
+        "anio_lanzamiento": 1990,
+        "genero": "Electr\u00f3nica",
+        "artista": {
+            "nombre": "Justin",
+            "apellido": "Wiggins",
+            "pais_origen": "Slovakia (Slovak Republic)"
+        },
+        "canciones": [
+            {
+                "nombre": "Which",
+                "duracion": "4:16"
+            },
+            {
+                "nombre": "Teacher",
+                "duracion": "3:02"
+            },
+            {
+                "nombre": "Mind",
                 "duracion": "4:05"
             },
             {
-                "nombre": "Win meet",
-                "duracion": "3:56"
+                "nombre": "Chance wife tend organization",
+                "duracion": "4:27"
             },
             {
-                "nombre": "Have",
-                "duracion": "2:06"
+                "nombre": "Reason",
+                "duracion": "4:06"
             },
             {
-                "nombre": "Third style central",
-                "duracion": "2:06"
+                "nombre": "Young follow stay stock",
+                "duracion": "3:37"
+            }
+        ]
+    },
+    {
+        "titulo": "Coach American",
+        "anio_lanzamiento": 2005,
+        "genero": "Indie",
+        "artista": {
+            "nombre": "Robert",
+            "apellido": "Poole",
+            "pais_origen": "Christmas Island"
+        },
+        "canciones": [
+            {
+                "nombre": "Step",
+                "duracion": "5:53"
             },
             {
-                "nombre": "Himself seem boy real",
-                "duracion": "4:34"
+                "nombre": "Enjoy",
+                "duracion": "2:15"
+            },
+            {
+                "nombre": "Black pull",
+                "duracion": "3:03"
+            },
+            {
+                "nombre": "Item",
+                "duracion": "3:20"
+            },
+            {
+                "nombre": "Before",
+                "duracion": "4:37"
+            }
+        ]
+    },
+    {
+        "titulo": "Play",
+        "anio_lanzamiento": 2001,
+        "genero": "Rock",
+        "artista": {
+            "nombre": "Kim",
+            "apellido": "Glass",
+            "pais_origen": "Greece"
+        },
+        "canciones": [
+            {
+                "nombre": "Drop effort",
+                "duracion": "2:51"
+            },
+            {
+                "nombre": "Recognize risk including",
+                "duracion": "4:27"
+            },
+            {
+                "nombre": "Indeed",
+                "duracion": "2:18"
+            },
+            {
+                "nombre": "Everyone",
+                "duracion": "5:21"
+            },
+            {
+                "nombre": "Travel power around",
+                "duracion": "5:36"
+            },
+            {
+                "nombre": "Form",
+                "duracion": "4:35"
+            }
+        ]
+    },
+    {
+        "titulo": "Hear",
+        "anio_lanzamiento": 2000,
+        "genero": "Hip-Hop",
+        "artista": {
+            "nombre": "Justin",
+            "apellido": "Wiggins",
+            "pais_origen": "Slovakia (Slovak Republic)"
+        },
+        "canciones": [
+            {
+                "nombre": "Receive",
+                "duracion": "3:41"
+            },
+            {
+                "nombre": "Activity",
+                "duracion": "2:07"
+            },
+            {
+                "nombre": "Goal blue",
+                "duracion": "3:09"
+            },
+            {
+                "nombre": "Bag certain stage",
+                "duracion": "3:38"
+            },
+            {
+                "nombre": "Pick perform enough",
+                "duracion": "2:31"
+            },
+            {
+                "nombre": "Thought well with",
+                "duracion": "5:41"
+            },
+            {
+                "nombre": "Your could",
+                "duracion": "5:11"
+            }
+        ]
+    },
+    {
+        "titulo": "Yes",
+        "anio_lanzamiento": 1996,
+        "genero": "Pop",
+        "artista": {
+            "nombre": "Stacy",
+            "apellido": "Powell",
+            "pais_origen": "Nigeria"
+        },
+        "canciones": [
+            {
+                "nombre": "Speech",
+                "duracion": "2:25"
+            },
+            {
+                "nombre": "Leader",
+                "duracion": "4:48"
+            },
+            {
+                "nombre": "Nothing prevent",
+                "duracion": "2:30"
+            },
+            {
+                "nombre": "Care",
+                "duracion": "3:05"
+            },
+            {
+                "nombre": "Forget",
+                "duracion": "2:59"
+            }
+        ]
+    },
+    {
+        "titulo": "Country",
+        "anio_lanzamiento": 2019,
+        "genero": "Rock",
+        "artista": {
+            "nombre": "Clayton",
+            "apellido": "Moore",
+            "pais_origen": "Central African Republic"
+        },
+        "canciones": [
+            {
+                "nombre": "Medical wrong part whose lose",
+                "duracion": "4:53"
+            },
+            {
+                "nombre": "Recent",
+                "duracion": "5:45"
+            },
+            {
+                "nombre": "Test technology",
+                "duracion": "4:05"
+            },
+            {
+                "nombre": "After model movie value",
+                "duracion": "2:20"
+            },
+            {
+                "nombre": "Center bed call really",
+                "duracion": "2:29"
+            },
+            {
+                "nombre": "Various choice none",
+                "duracion": "4:46"
+            },
+            {
+                "nombre": "Down after personal computer girl",
+                "duracion": "5:46"
+            }
+        ]
+    },
+    {
+        "titulo": "Song past along",
+        "anio_lanzamiento": 1994,
+        "genero": "Pop",
+        "artista": {
+            "nombre": "Michael",
+            "apellido": "Mckenzie",
+            "pais_origen": "Denmark"
+        },
+        "canciones": [
+            {
+                "nombre": "Discussion",
+                "duracion": "3:41"
+            },
+            {
+                "nombre": "Station role section",
+                "duracion": "2:50"
+            },
+            {
+                "nombre": "Against",
+                "duracion": "5:22"
+            },
+            {
+                "nombre": "Toward point",
+                "duracion": "2:39"
+            },
+            {
+                "nombre": "Though so method",
+                "duracion": "5:46"
+            },
+            {
+                "nombre": "Get",
+                "duracion": "2:07"
+            },
+            {
+                "nombre": "Every top",
+                "duracion": "2:21"
+            },
+            {
+                "nombre": "A",
+                "duracion": "2:43"
+            },
+            {
+                "nombre": "Somebody reveal property option",
+                "duracion": "4:54"
+            },
+            {
+                "nombre": "Up somebody compare",
+                "duracion": "2:15"
+            },
+            {
+                "nombre": "Theory",
+                "duracion": "4:17"
             }
         ]
     }
