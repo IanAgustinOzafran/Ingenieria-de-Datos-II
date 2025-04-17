@@ -98,4 +98,4 @@ db.Musica.deleteMany({"genero": "Jazz", "artista": "John Coltrane"});
 db.Musica.deleteMany({"genero": {$ne: "Rock"}});
 
 // Eliminar álbumes cuyo nombre de artista contiene una palabra específica
-db.Musica.deleteMany({"artista": {$regex: "Taylor"}});
+db.Musica.deleteMany({"artista": {$regex: "The"}});
