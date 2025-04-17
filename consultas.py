@@ -1,5 +1,4 @@
 from pymongo import MongoClient
-import json
 
 client = MongoClient("mongodb://localhost:27017/")
  
@@ -54,3 +53,5 @@ agrupacion_por_genero = musica_collection.aggregate([
 print("Cantidad de canciones por género:")
 for grupo in agrupacion_por_genero:
     print(grupo)
+
+
