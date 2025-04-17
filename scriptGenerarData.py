@@ -1,19 +1,6 @@
-from pymongo import MongoClient
-
 import json
-
-#Para poder instalar faker
-#   pip install pymongo faker
 from faker import Faker
 import random
-
-# Conectar a MongoDB
-client = MongoClient('mongodb://localhost:27017/')
-db = client['TPO']
-musica_collection = db["Musica"]
-
-# Limpiar la colección antes de insertar nuevos datos (opcional)
-#musica_collection.delete_many({})
 
 # Inicializar Faker
 fake = Faker()
@@ -52,12 +39,8 @@ def insertar_albumes_por_artistas(num_artistas=10, num_albumes=4):
 
     return albumes
     
-
-
-
 # Ejecutar
 insertar_albumes_por_artistas(10, 20)  # 10 artistas, 20 álbumes 
-
 
 with open('musica.json', 'w') as file:
     albumes = insertar_albumes_por_artistas(10, 20)
@@ -68,4 +51,14 @@ with open ('musica.json', 'r') as file:
     data = json.load(file)
     
     for musica in data:
-        print(f"Artista: {musica['artista']}, Álbum: {musica['album']}, Canciones: {musica[{'album': 'canciones'}]}, Genero: {musica['genero']}")
+        print(f"Artista: {musica['artista']['nombre']} {musica['artista']['apellido']}")
+        print(f"Álbum: {musica['titulo']}")
+        print(f"Año de lanzamiento: {musica['anio_lanzamiento']}")
+        print(f"Género: {musica['genero']}")
+        print("Canciones:")
+        for cancion in musica['canciones']:
+            print(f" - {cancion['nombre']} ({cancion['duracion']})")
+        print("\n")
+    
+    file.close()
+    
