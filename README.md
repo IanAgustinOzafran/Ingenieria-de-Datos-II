@@ -2,11 +2,11 @@
 TPO - Motor de Base de Datos MongoDB con Aplicación de Software Python 
 
 Objetivo:
-● Aprender a conectar MongoDB con Python. 
-● Practicar operaciones CRUD en MongoDB usando Python. 
-● Explorar consultas avanzadas y manipulación de datos con PyMongo. 
-● Aplicar conocimientos en un caso práctico real. 
-● Evidenciar cada uno de los puntos solicitados como enunciado.
+- Aprender a conectar MongoDB con Python. 
+- Practicar operaciones CRUD en MongoDB usando Python. 
+- Explorar consultas avanzadas y manipulación de datos con PyMongo. 
+- Aplicar conocimientos en un caso práctico real. 
+- Evidenciar cada uno de los puntos solicitados como enunciado.
 
 Requisitos previos 
 1. MongoDB instalado (incluyendo MongoDB Shell y Compass). 
@@ -53,12 +53,12 @@ pandas de python, por ejemplo: Usar pandas para guardar la salida en CSV.
 
 Entrega del TPO 
 Cada equipo deberá subir un informe en formato PDF con: 
-● Código utilizado en Python. 
-● Capturas de pantalla de MongoDB Compass mostrando los datos. 
-● Resultados de las consultas y análisis realizados. 
+- Código utilizado en Python. 
+- Capturas de pantalla de MongoDB Compass mostrando los datos. 
+- Resultados de las consultas y análisis realizados. 
 
 EXTRA: Conexión de MongoDB con una API y Dashboard 
 Objetivo: 
-● Crear una API en Flask para exponer los datos de MongoDB. 
-● Consumir los datos desde un dashboard en Power BI o Tableau. 
+- Crear una API en Flask para exponer los datos de MongoDB. 
+- Consumir los datos desde un dashboard en Power BI o Tableau. 
 Paso a paso: 
