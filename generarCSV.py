@@ -8,9 +8,6 @@ db = client["TPO"]
 
 musica_collection = db["Musica"]
 
-
-
-
 albumes = musica_collection.find({},{"_id": 0})
 df = pd.DataFrame(list(albumes))
 df.to_csv('musica.csv', index=False)
