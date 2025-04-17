@@ -25,7 +25,8 @@ def generar_album(artista):
         'anio_lanzamiento': random.randint(1980, 2024),
         'genero': random.choice(generos_musicales),
         'artista': artista,
-        'canciones': [{'nombre': fake.sentence(nb_words=random.randint(1, 4)).replace('.', ''), 'duracion': f"{random.randint(2, 5)}:{random.randint(0, 5)}{random.randint(0, 9)}"} for _ in range(random.randint(5, 15))]
+        'canciones': [{'nombre': fake.sentence(nb_words=random.randint(1, 4)).replace('.', ''),
+         'duracion': f"{random.randint(2, 5)}:{random.randint(0, 5)}{random.randint(0, 9)}"} for _ in range(random.randint(5, 15))]
     }
     
 # Insertar álbumes
