@@ -1,0 +1,6 @@
+1. limpiar BD
+2. generar Datos
+3. cargar Datos
+4. verificar carga de Datos
+5. consultar Datos
+6. generar csv
