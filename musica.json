@@ -1,1000 +1,1010 @@
-[{"artista":"Quincy Makeswell","album":"Deep Flow","genero":"Dubstep"},
-{"artista":"Correy Wynter","album":"Night Whispers","genero":"Grunge"},
-{"artista":"Gayle Glassman","album":"Aurora Calling","genero":"R&B"},
-{"artista":"Bancroft Spickett","album":"Gravity Shift","genero":"Ska"},
-{"artista":"Woodie Maunton","album":"Crystal Vibes","genero":"Electrónica"},
-{"artista":"Sibelle O'Callaghan","album":"Oceans Within","genero":"Dubstep"},
-{"artista":"Harmony Toffler","album":"Deep Flow","genero":"Flamenco"},
-{"artista":"Martina Rawlyns","album":"Lost Horizons","genero":"Ópera"},
-{"artista":"Jennilee Alvaro","album":"Dark Matter","genero":"Hardcore"},
-{"artista":"Essa Carnoghan","album":"Velvet Sunset","genero":"Punk"},
-{"artista":"Annamaria Portriss","album":"Lost Horizons","genero":"Dubstep"},
-{"artista":"Meagan Nussen","album":"Crystal Vibes","genero":"Tango"},
-{"artista":"Thomas Manuel","album":"Obsidian Soul","genero":"Gospel"},
-{"artista":"Charlotte Mellor","album":"Dark Matter","genero":"Clásica"},
-{"artista":"Darbie Lazell","album":"Obsidian Soul","genero":"Folklore"},
-{"artista":"Dallas Ivatts","album":"Cosmic Garden","genero":"Tango"},
-{"artista":"Raye Cottom","album":"Hidden Realms","genero":"Funk"},
-{"artista":"Halsey Lill","album":"Lost Horizons","genero":"Lo-Fi"},
-{"artista":"Markos McJarrow","album":"Golden Dusk","genero":"K-Pop"},
-{"artista":"Teddi Dovey","album":"Neon Skies","genero":"Lo-Fi"},
-{"artista":"Eydie Sandeman","album":"Blood and Rhythm","genero":"Gospel"},
-{"artista":"Joyann Candlin","album":"The Velvet Code","genero":"Indie"},
-{"artista":"Aubrey Kynston","album":"Broken Mirrors","genero":"Blues"},
-{"artista":"Maria de Courcy","album":"Cosmic Garden","genero":"Pop"},
-{"artista":"Heddi Maundrell","album":"Blue Hour","genero":"Afrobeats"},
-{"artista":"Kathye Klimaszewski","album":"Electric Dreams","genero":"J-Pop"},
-{"artista":"Wallas Seiler","album":"Aurora Calling","genero":"World Music"},
-{"artista":"Flinn Tatlock","album":"Parallel Lives","genero":"Blues"},
-{"artista":"Emmye Dodding","album":"Parallel Lives","genero":"Reggaetón"},
-{"artista":"Mikaela Ossenna","album":"Crystal Vibes","genero":"Chillout"},
-{"artista":"Davita Kinder","album":"Cosmic Garden","genero":"Afrobeats"},
-{"artista":"Sari Hick","album":"Midnight Echoes","genero":"Hardcore"},
-{"artista":"Alexina Beckinsall","album":"Parallel Lives","genero":"Industrial"},
-{"artista":"Elvyn Fairbank","album":"The Velvet Code","genero":"Techno"},
-{"artista":"Drew Eul","album":"Inner Fire","genero":"Gospel"},
-{"artista":"Jannel Bottelstone","album":"Distant Signals","genero":"Ópera"},
-{"artista":"Sissie Sawrey","album":"Broken Mirrors","genero":"World Music"},
-{"artista":"Leroi Poinsett","album":"Golden Dusk","genero":"Hardcore"},
-{"artista":"Ardelle Capehorn","album":"Immortal Bloom","genero":"Disco"},
-{"artista":"Madelon Duplan","album":"Burning Lights","genero":"Lo-Fi"},
-{"artista":"Bee Krinks","album":"Hidden Realms","genero":"Hip-Hop"},
-{"artista":"Michaelina Andreev","album":"Phantom Beat","genero":"Reggaetón"},
-{"artista":"Kit Newbigging","album":"Golden Dusk","genero":"Experimental"},
-{"artista":"Sherline Danielot","album":"Broken Mirrors","genero":"Ska"},
-{"artista":"Alejandrina Yoselevitch","album":"Wild Silence","genero":"J-Pop"},
-{"artista":"Valentin Kern","album":"Phantom Beat","genero":"J-Pop"},
-{"artista":"Tiffani Phelipeaux","album":"Static Heart","genero":"Bachata"},
-{"artista":"Shea Middle","album":"Dark Matter","genero":"World Music"},
-{"artista":"Winna Still","album":"Invisible Threads","genero":"Industrial"},
-{"artista":"Arther Keniwell","album":"Blue Hour","genero":"Trap"},
-{"artista":"Thelma Annice","album":"Blood and Rhythm","genero":"New Age"},
-{"artista":"Diannne Wildey","album":"Velvet Sunset","genero":"Disco"},
-{"artista":"Saundra Luckcuck","album":"Night Whispers","genero":"J-Pop"},
-{"artista":"Rufus Reiners","album":"Moonlight Parade","genero":"Folklore"},
-{"artista":"Colline Sharphouse","album":"Blood and Rhythm","genero":"Salsa"},
-{"artista":"Mia Chadband","album":"Burning Lights","genero":"Tango"},
-{"artista":"Laura Habden","album":"Edge of Sound","genero":"Cumbia"},
-{"artista":"Augy Danilowicz","album":"Crystal Vibes","genero":"Gospel"},
-{"artista":"Rey Balderson","album":"Blood and Rhythm","genero":"Hardcore"},
-{"artista":"Farrah Folkes","album":"Daydream Circuit","genero":"R&B"},
-{"artista":"Darb Pollicott","album":"Velvet Sunset","genero":"Heavy Metal"},
-{"artista":"Lesli Vinnick","album":"Golden Dusk","genero":"Tango"},
-{"artista":"Belinda Slader","album":"Glass Wings","genero":"Jazz"},
-{"artista":"Myra Orvis","album":"Velvet Sunset","genero":"Reggaetón"},
-{"artista":"Cristina Leathers","album":"Obsidian Soul","genero":"Flamenco"},
-{"artista":"Laney Lucchi","album":"The Fall and Rise","genero":"Hip-Hop"},
-{"artista":"Dorey Davidi","album":"Liquid Universe","genero":"Reggae"},
-{"artista":"Karine Cheers","album":"Neon Skies","genero":"Ambient"},
-{"artista":"Shawn Castleman","album":"Electric Dreams","genero":"Lo-Fi"},
-{"artista":"Elaina McPolin","album":"Oceans Within","genero":"Funk"},
-{"artista":"Meghan Millmoe","album":"Blood and Rhythm","genero":"Jazz"},
-{"artista":"Nonna Luscott","album":"Electric Dreams","genero":"Trance"},
-{"artista":"Franni Lancetter","album":"Crystal Vibes","genero":"Disco"},
-{"artista":"Denny Dominetti","album":"Daydream Circuit","genero":"Hip-Hop"},
-{"artista":"Lindsay Battleson","album":"Waking the Giants","genero":"Industrial"},
-{"artista":"Norina Wilsone","album":"Phantom Beat","genero":"Indie"},
-{"artista":"Chantal Pestridge","album":"Broken Mirrors","genero":"Flamenco"},
-{"artista":"Cherrita Oade","album":"Inner Fire","genero":"Trance"},
-{"artista":"Charla Van Der Weedenburg","album":"The Fall and Rise","genero":"Experimental"},
-{"artista":"Claudine Corrett","album":"Midnight Echoes","genero":"Merengue"},
-{"artista":"Thane Faulo","album":"Celestial Drift","genero":"Soul"},
-{"artista":"Kessiah Ace","album":"Inner Fire","genero":"New Age"},
-{"artista":"Brandice Brangan","album":"Golden Dusk","genero":"Blues"},
-{"artista":"Hobey Heinke","album":"Urban Rituals","genero":"Drum and Bass"},
-{"artista":"Mabelle Donald","album":"Dark Matter","genero":"Rock"},
-{"artista":"Martie Weeke","album":"Waking the Giants","genero":"Salsa"},
-{"artista":"Adrien Yokley","album":"Mirage Lines","genero":"Hardcore"},
-{"artista":"West Strowan","album":"Celestial Drift","genero":"Disco"},
-{"artista":"Georgeanna Cutriss","album":"Crystal Vibes","genero":"Hip-Hop"},
-{"artista":"Sheelah Chasle","album":"Distant Signals","genero":"Jazz"},
-{"artista":"Hammad Spriggin","album":"Dark Matter","genero":"Ópera"},
-{"artista":"Vale Booler","album":"The Velvet Code","genero":"Punk"},
-{"artista":"Dwayne Vayne","album":"Beyond the Shadows","genero":"Salsa"},
-{"artista":"Giacobo Leall","album":"Parallel Lives","genero":"World Music"},
-{"artista":"Gayleen Axelbey","album":"Celestial Drift","genero":"Trap"},
-{"artista":"Currey Shatford","album":"Glass Wings","genero":"Hardcore"},
-{"artista":"Padget McDonnell","album":"Waking the Giants","genero":"Hardcore"},
-{"artista":"Jasun Dimitriou","album":"Golden Dusk","genero":"Trance"},
-{"artista":"Charo Rackley","album":"Dark Matter","genero":"Reggaetón"},
-{"artista":"Camel Gayle","album":"Hologram Hearts","genero":"R&B"},
-{"artista":"Nanon Morstatt","album":"Soul Frequency","genero":"Cumbia"},
-{"artista":"Eloise Howsam","album":"Wild Silence","genero":"Reggaetón"},
-{"artista":"Jaquith Eagling","album":"Deep Flow","genero":"Punk"},
-{"artista":"Gael Bispham","album":"Shadows and Light","genero":"Gospel"},
-{"artista":"Mandie Bare","album":"Parallel Lives","genero":"Industrial"},
-{"artista":"Urson Suett","album":"Soul Frequency","genero":"Folklore"},
-{"artista":"Andeee Facchini","album":"Echoes of Time","genero":"Gospel"},
-{"artista":"Chandra Reignould","album":"Night Whispers","genero":"Clásica"},
-{"artista":"Kliment Ladyman","album":"Lost Horizons","genero":"Industrial"},
-{"artista":"Mirabella Tower","album":"Velvet Sunset","genero":"Metal"},
-{"artista":"Giusto Daniaud","album":"Eternal Pulse","genero":"Ambient"},
-{"artista":"Amelina Lomath","album":"Waking the Giants","genero":"Synthwave"},
-{"artista":"Barry Adamczewski","album":"Waking the Giants","genero":"K-Pop"},
-{"artista":"Jemima Lisle","album":"The Fall and Rise","genero":"Rap"},
-{"artista":"Barb Butting","album":"Soundscapes","genero":"Reggaetón"},
-{"artista":"Paulita Locarno","album":"Slow Voltage","genero":"Synthwave"},
-{"artista":"Edd Menloe","album":"Parallel Lives","genero":"Dubstep"},
-{"artista":"Goldi Walshaw","album":"Broken Mirrors","genero":"Rap"},
-{"artista":"Darcee Libby","album":"The Silent Storm","genero":"R&B"},
-{"artista":"Adrianne Blenkiron","album":"Mirage Lines","genero":"Afrobeats"},
-{"artista":"Alexander Castlake","album":"Glass Wings","genero":"Experimental"},
-{"artista":"Leo Bache","album":"Infinite Road","genero":"Hip-Hop"},
-{"artista":"Darice Docker","album":"Parallel Lives","genero":"Trap"},
-{"artista":"Davidson MacCartney","album":"Night Whispers","genero":"Salsa"},
-{"artista":"Cassey Hilbourne","album":"Soundscapes","genero":"R&B"},
-{"artista":"Lolly Sutherley","album":"Glass Wings","genero":"R&B"},
-{"artista":"Townsend Darlaston","album":"Burning Lights","genero":"Trap"},
-{"artista":"Washington Cowdry","album":"Moonlight Parade","genero":"Jazz"},
-{"artista":"Bradney D'Alwis","album":"Dark Matter","genero":"New Age"},
-{"artista":"Rivkah Ducker","album":"Moonlight Parade","genero":"Synthwave"},
-{"artista":"Lucias Hutchin","album":"Moonlight Parade","genero":"Merengue"},
-{"artista":"Gweneth Donn","album":"Golden Dusk","genero":"Lo-Fi"},
-{"artista":"Sharla O'Sherin","album":"Beyond the Shadows","genero":"Jazz"},
-{"artista":"Oona Semour","album":"Infinite Road","genero":"Lo-Fi"},
-{"artista":"Raquela Posen","album":"Parallel Lives","genero":"Latin Pop"},
-{"artista":"Merridie Robarts","album":"Distant Signals","genero":"Rock"},
-{"artista":"Lowell Allchin","album":"Hologram Hearts","genero":"Gospel"},
-{"artista":"Cale Gulliver","album":"Distant Signals","genero":"House"},
-{"artista":"Rollo Ferronier","album":"The Light Below","genero":"Heavy Metal"},
-{"artista":"Quinlan Stroton","album":"Aurora Calling","genero":"Jazz"},
-{"artista":"Kalila Keller","album":"Slow Voltage","genero":"Folklore"},
-{"artista":"Cass Bridell","album":"Blue Hour","genero":"Blues"},
-{"artista":"Tracee Everson","album":"Edge of Sound","genero":"Hip-Hop"},
-{"artista":"Bili Doy","album":"Aurora Calling","genero":"Trap"},
-{"artista":"Valeda Guiel","album":"Golden Dusk","genero":"Ambient"},
-{"artista":"Maje Smallcomb","album":"Neon Skies","genero":"Merengue"},
-{"artista":"Faustina Blacktin","album":"Daydream Circuit","genero":"Trap"},
-{"artista":"Kirsti Windham","album":"Dark Matter","genero":"Industrial"},
-{"artista":"Leila Estevez","album":"Velvet Sunset","genero":"Folklore"},
-{"artista":"Sly Mines","album":"Gravity Shift","genero":"Salsa"},
-{"artista":"Katha Tollerton","album":"Invisible Threads","genero":"Grunge"},
-{"artista":"Cathryn Selvester","album":"Urban Rituals","genero":"Grunge"},
-{"artista":"Bjorn Boddice","album":"Midnight Echoes","genero":"Grunge"},
-{"artista":"Myrilla Sneath","album":"Hologram Hearts","genero":"Clásica"},
-{"artista":"Deni Dowglass","album":"Eternal Pulse","genero":"Heavy Metal"},
-{"artista":"Kermit Tejero","album":"Eternal Pulse","genero":"R&B"},
-{"artista":"Hilliary Firpi","album":"Cosmic Garden","genero":"Reggae"},
-{"artista":"Fernande Betham","album":"Soul Frequency","genero":"Tango"},
-{"artista":"Carilyn Fury","album":"Slow Voltage","genero":"Electrónica"},
-{"artista":"Trish Matthewes","album":"Gravity Shift","genero":"Chillout"},
-{"artista":"Jeffy Fogg","album":"Moonlight Parade","genero":"Electrónica"},
-{"artista":"Nadia Girogetti","album":"The Fall and Rise","genero":"Salsa"},
-{"artista":"Rex Althrope","album":"Wild Silence","genero":"Pop"},
-{"artista":"Tara Astridge","album":"Static Heart","genero":"Dubstep"},
-{"artista":"Herminia Wrightam","album":"Daydream Circuit","genero":"World Music"},
-{"artista":"Kev O'Hogertie","album":"Urban Rituals","genero":"Ska"},
-{"artista":"Kesley McGreil","album":"Gravity Shift","genero":"Ambient"},
-{"artista":"Kory Jirieck","album":"Parallel Lives","genero":"J-Pop"},
-{"artista":"Kylila Scrimshaw","album":"The Light Below","genero":"Merengue"},
-{"artista":"Brianne Kett","album":"Echoes of Time","genero":"Clásica"},
-{"artista":"Othilia Bosche","album":"Neon Skies","genero":"Rap"},
-{"artista":"Jephthah Bleaden","album":"Gravity Shift","genero":"Tango"},
-{"artista":"Melisent Casali","album":"Waking the Giants","genero":"Ópera"},
-{"artista":"Estevan Stutt","album":"Broken Mirrors","genero":"Chillout"},
-{"artista":"Derward Tubbles","album":"Invisible Threads","genero":"Afrobeats"},
-{"artista":"Adena Boyd","album":"Edge of Sound","genero":"Lo-Fi"},
-{"artista":"Hogan Tanton","album":"Lost Horizons","genero":"Rock"},
-{"artista":"Morie Bernolet","album":"Liquid Universe","genero":"Industrial"},
-{"artista":"Kippie Corns","album":"Edge of Sound","genero":"Heavy Metal"},
-{"artista":"Lissy Kemball","album":"Wild Silence","genero":"Ambient"},
-{"artista":"Alexei Duprey","album":"Celestial Drift","genero":"J-Pop"},
-{"artista":"Derek Manilow","album":"Immortal Bloom","genero":"Drum and Bass"},
-{"artista":"Mick Capaldo","album":"Lost Horizons","genero":"Metal"},
-{"artista":"Orson Garioch","album":"Echoes of Time","genero":"Funk"},
-{"artista":"Dalli Hallybone","album":"Shadows and Light","genero":"Techno"},
-{"artista":"Walker Pledge","album":"Urban Rituals","genero":"Experimental"},
-{"artista":"Leonid Gligorijevic","album":"Lost Horizons","genero":"Chillout"},
-{"artista":"Astrix Olle","album":"The Light Below","genero":"Bachata"},
-{"artista":"Kirby Addicote","album":"Slow Voltage","genero":"Afrobeats"},
-{"artista":"Charisse Trewin","album":"Burning Lights","genero":"New Age"},
-{"artista":"Mikaela Drust","album":"Infinite Road","genero":"Trance"},
-{"artista":"Francklyn Castellone","album":"The Other Side","genero":"Chillout"},
-{"artista":"Candis Summerson","album":"Soul Frequency","genero":"Jazz"},
-{"artista":"Odetta Legrice","album":"Dark Matter","genero":"Indie"},
-{"artista":"Therine Sorsbie","album":"Echoes of Time","genero":"Heavy Metal"},
-{"artista":"Glori Waltering","album":"Electric Dreams","genero":"Hardcore"},
-{"artista":"Ricky Rabidge","album":"Lost Horizons","genero":"Chillout"},
-{"artista":"Jolie McPhelimey","album":"Shadows and Light","genero":"Merengue"},
-{"artista":"Barr Hearse","album":"Soundscapes","genero":"Industrial"},
-{"artista":"Donella Beavan","album":"Liquid Universe","genero":"Blues"},
-{"artista":"Germaine Biaggioni","album":"Echoes of Time","genero":"Disco"},
-{"artista":"Wilie Roarty","album":"Deep Flow","genero":"K-Pop"},
-{"artista":"Raymond Scutcheon","album":"The Silent Storm","genero":"Trance"},
-{"artista":"Chelsey Longega","album":"Deep Flow","genero":"Techno"},
-{"artista":"Alisun Twinn","album":"Inner Fire","genero":"Ska"},
-{"artista":"Lelia Rafferty","album":"Urban Rituals","genero":"Punk"},
-{"artista":"Silvester Caldaro","album":"Phantom Beat","genero":"Ambient"},
-{"artista":"Sergei Japp","album":"Broken Mirrors","genero":"Reggae"},
-{"artista":"Ammamaria McFfaden","album":"Waking the Giants","genero":"Cumbia"},
-{"artista":"Neilla Bickersteth","album":"Crystal Vibes","genero":"Jazz"},
-{"artista":"Shayla Sipson","album":"Hidden Realms","genero":"Dubstep"},
-{"artista":"Giustina Bartleman","album":"The Velvet Code","genero":"R&B"},
-{"artista":"Roxine Benedikt","album":"Dark Matter","genero":"Lo-Fi"},
-{"artista":"Cherri McLardie","album":"The Silent Storm","genero":"Funk"},
-{"artista":"Byron Alexandrou","album":"Urban Rituals","genero":"Experimental"},
-{"artista":"Gerladina Farrall","album":"Static Heart","genero":"Ska"},
-{"artista":"Ellie Moro","album":"Celestial Drift","genero":"Reggae"},
-{"artista":"Janifer Millions","album":"Waking the Giants","genero":"Chillout"},
-{"artista":"Arni Meigh","album":"Crystal Vibes","genero":"Reggae"},
-{"artista":"Luciano Epgrave","album":"Phantom Beat","genero":"Punk"},
-{"artista":"Sherman Lortz","album":"Soundscapes","genero":"Country"},
-{"artista":"Beverlee Bjerkan","album":"Shadows and Light","genero":"Afrobeats"},
-{"artista":"Lelah Burnard","album":"Electric Dreams","genero":"Country"},
-{"artista":"Xenos Arghent","album":"Hologram Hearts","genero":"Grunge"},
-{"artista":"Danni Aven","album":"Edge of Sound","genero":"Cumbia"},
-{"artista":"Emilee Gascard","album":"Eternal Pulse","genero":"Metal"},
-{"artista":"Korie Node","album":"Crystal Vibes","genero":"Ambient"},
-{"artista":"Seline Mariot","album":"Glass Wings","genero":"Drum and Bass"},
-{"artista":"Fanya Bridgett","album":"Phantom Beat","genero":"Clásica"},
-{"artista":"Marianne L'Episcopi","album":"The Light Below","genero":"Clásica"},
-{"artista":"Ellsworth Fearick","album":"Mirage Lines","genero":"Trap"},
-{"artista":"Hamil Molian","album":"Parallel Lives","genero":"Funk"},
-{"artista":"Hazel Reneke","album":"Obsidian Soul","genero":"J-Pop"},
-{"artista":"Weider Scade","album":"Glass Wings","genero":"Soul"},
-{"artista":"Pavlov Spires","album":"Phantom Beat","genero":"Soul"},
-{"artista":"Henrie Lankester","album":"Lost Horizons","genero":"Soul"},
-{"artista":"Bevin Flear","album":"Liquid Universe","genero":"Rock"},
-{"artista":"Joelle Rowbottom","album":"Golden Dusk","genero":"Experimental"},
-{"artista":"Merle Stapford","album":"Cosmic Garden","genero":"Tango"},
-{"artista":"Mathew Corrao","album":"Golden Dusk","genero":"Heavy Metal"},
-{"artista":"Cazzie Chaffyn","album":"Burning Lights","genero":"Ambient"},
-{"artista":"Barbe Holsey","album":"Immortal Bloom","genero":"Afrobeats"},
-{"artista":"Sidnee Softley","album":"Eternal Pulse","genero":"Punk"},
-{"artista":"Haley Cobello","album":"Waking the Giants","genero":"Drum and Bass"},
-{"artista":"Marylou Sleany","album":"Slow Voltage","genero":"Techno"},
-{"artista":"Hilary Graine","album":"Neon Skies","genero":"Blues"},
-{"artista":"Emanuel Cleghorn","album":"Obsidian Soul","genero":"R&B"},
-{"artista":"Kristan Jefferies","album":"Oceans Within","genero":"Country"},
-{"artista":"Savina Whitford","album":"Velvet Sunset","genero":"Flamenco"},
-{"artista":"Alyss Taynton","album":"Deep Flow","genero":"Ska"},
-{"artista":"Mikaela Duckham","album":"Invisible Threads","genero":"Ambient"},
-{"artista":"Ania Pammenter","album":"Static Heart","genero":"Metal"},
-{"artista":"Margaretta Rowlett","album":"Crystal Vibes","genero":"Metal"},
-{"artista":"Barbara Esposi","album":"Eternal Pulse","genero":"Drum and Bass"},
-{"artista":"Barnabe Torri","album":"Moonlight Parade","genero":"Heavy Metal"},
-{"artista":"Arabela Leppington","album":"Neon Skies","genero":"Metal"},
-{"artista":"Norrie Corday","album":"Dark Matter","genero":"Gospel"},
-{"artista":"Ahmed Beckers","album":"Immortal Bloom","genero":"Chillout"},
-{"artista":"Karyn Geall","album":"Wild Silence","genero":"New Age"},
-{"artista":"Ilario Chaytor","album":"Velvet Sunset","genero":"Disco"},
-{"artista":"Nolan Baguley","album":"Beyond the Shadows","genero":"K-Pop"},
-{"artista":"Micki Kilbourn","album":"Distant Signals","genero":"Cumbia"},
-{"artista":"Alphonso Laye","album":"Distant Signals","genero":"Heavy Metal"},
-{"artista":"Anderea Jime","album":"Phantom Beat","genero":"Dubstep"},
-{"artista":"Terrie Goodyear","album":"Static Heart","genero":"Ópera"},
-{"artista":"Natassia Gaine of England","album":"Hologram Hearts","genero":"Grunge"},
-{"artista":"Dale Budibent","album":"Oceans Within","genero":"Reggaetón"},
-{"artista":"Gallagher Mullaly","album":"Velvet Sunset","genero":"Trap"},
-{"artista":"Jarid Alenichev","album":"Obsidian Soul","genero":"R&B"},
-{"artista":"Corri Evequot","album":"Broken Mirrors","genero":"Electrónica"},
-{"artista":"Dreddy Atlay","album":"Daydream Circuit","genero":"Salsa"},
-{"artista":"Ethelbert Brilleman","album":"Invisible Threads","genero":"New Age"},
-{"artista":"Hermina Keegan","album":"Celestial Drift","genero":"Soul"},
-{"artista":"Marco Rosentholer","album":"The Velvet Code","genero":"Metal"},
-{"artista":"Pegeen Dobble","album":"Oceans Within","genero":"Synthwave"},
-{"artista":"Brien Killiam","album":"Midnight Echoes","genero":"Merengue"},
-{"artista":"Alvan Trivett","album":"Inner Fire","genero":"Hardcore"},
-{"artista":"Florie Bromwich","album":"Distant Signals","genero":"Dubstep"},
-{"artista":"Bernelle Pillans","album":"Wild Silence","genero":"Trap"},
-{"artista":"Parsifal Luna","album":"Infinite Road","genero":"Pop"},
-{"artista":"Jerrome Goodnow","album":"Soul Frequency","genero":"Techno"},
-{"artista":"Wilie Bather","album":"Soul Frequency","genero":"Salsa"},
-{"artista":"Romy Cadd","album":"Distant Signals","genero":"Jazz"},
-{"artista":"Hal Romain","album":"Echoes of Time","genero":"Bachata"},
-{"artista":"Cherlyn Fairclough","album":"The Velvet Code","genero":"Hardcore"},
-{"artista":"Brendis Fretter","album":"Aurora Calling","genero":"Merengue"},
-{"artista":"Tyler Mingaud","album":"Crystal Vibes","genero":"New Age"},
-{"artista":"Jody Bertomier","album":"Phantom Beat","genero":"K-Pop"},
-{"artista":"Johannah Lock","album":"Electric Dreams","genero":"Jazz"},
-{"artista":"Cleo Nornable","album":"Soundscapes","genero":"Indie"},
-{"artista":"Shela Slyvester","album":"Velvet Sunset","genero":"Drum and Bass"},
-{"artista":"Dita Hamblington","album":"Midnight Echoes","genero":"Soul"},
-{"artista":"Dawn Abel","album":"Lost Horizons","genero":"Techno"},
-{"artista":"Duff Matous","album":"Lost Horizons","genero":"Drum and Bass"},
-{"artista":"Krishnah Crumbleholme","album":"Crystal Vibes","genero":"Blues"},
-{"artista":"Homerus Lambden","album":"Golden Dusk","genero":"Salsa"},
-{"artista":"Bevin Regelous","album":"Glass Wings","genero":"K-Pop"},
-{"artista":"Margaretha Petford","album":"Soul Frequency","genero":"New Age"},
-{"artista":"Orlando Alford","album":"Electric Dreams","genero":"Bachata"},
-{"artista":"Alissa Pillman","album":"Moonlight Parade","genero":"Merengue"},
-{"artista":"Alexandrina Tooze","album":"Burning Lights","genero":"Soul"},
-{"artista":"Erik Skin","album":"Shadows and Light","genero":"Metal"},
-{"artista":"Gerrie Stonhard","album":"Hidden Realms","genero":"Blues"},
-{"artista":"Karalynn Kurten","album":"Beyond the Shadows","genero":"Reggae"},
-{"artista":"Alexis Lillyman","album":"Blue Hour","genero":"Indie"},
-{"artista":"Darell Bowness","album":"Soul Frequency","genero":"Folklore"},
-{"artista":"Corrina Tomowicz","album":"Edge of Sound","genero":"Reggaetón"},
-{"artista":"Carroll Gutowska","album":"Immortal Bloom","genero":"New Age"},
-{"artista":"Barton Streak","album":"Wild Silence","genero":"Pop"},
-{"artista":"Orelie Stolberger","album":"Eternal Pulse","genero":"Experimental"},
-{"artista":"Riannon Bartram","album":"Immortal Bloom","genero":"House"},
-{"artista":"Thayne Sonier","album":"Obsidian Soul","genero":"Disco"},
-{"artista":"Reyna Upstell","album":"Waking the Giants","genero":"Cumbia"},
-{"artista":"Harald Getten","album":"Static Heart","genero":"R&B"},
-{"artista":"Venus Michurin","album":"Lost Horizons","genero":"Metal"},
-{"artista":"Mitchell Terbeck","album":"Infinite Road","genero":"Country"},
-{"artista":"Lynnette Reubel","album":"Night Whispers","genero":"Reggaetón"},
-{"artista":"Berty Wheatman","album":"Parallel Lives","genero":"Gospel"},
-{"artista":"Francyne Jarnell","album":"Hidden Realms","genero":"Ópera"},
-{"artista":"Gayle Puckey","album":"Waking the Giants","genero":"Salsa"},
-{"artista":"Ardis Mertel","album":"Deep Flow","genero":"Cumbia"},
-{"artista":"Noelyn Floch","album":"Cosmic Garden","genero":"Flamenco"},
-{"artista":"Lucina Lyddy","album":"Soundscapes","genero":"Jazz"},
-{"artista":"Loutitia Gelletly","album":"Shadows and Light","genero":"Dubstep"},
-{"artista":"Danika Yanshin","album":"Beyond the Shadows","genero":"Heavy Metal"},
-{"artista":"Jewelle Tissiman","album":"Liquid Universe","genero":"Hardcore"},
-{"artista":"Lionel Walenta","album":"Distant Signals","genero":"Hip-Hop"},
-{"artista":"Zared Kose","album":"Invisible Threads","genero":"World Music"},
-{"artista":"Odo Norval","album":"The Velvet Code","genero":"Pop"},
-{"artista":"Doloritas Lobb","album":"Golden Dusk","genero":"Ambient"},
-{"artista":"Kleon Rhule","album":"Glass Wings","genero":"Country"},
-{"artista":"Lea Saxby","album":"Dark Matter","genero":"Country"},
-{"artista":"Quinlan Clingan","album":"Celestial Drift","genero":"Grunge"},
-{"artista":"Vonni O'Dooghaine","album":"Wild Silence","genero":"Merengue"},
-{"artista":"Dwain Habeshaw","album":"Parallel Lives","genero":"Reggaetón"},
-{"artista":"Donelle Cullinan","album":"Slow Voltage","genero":"Indie"},
-{"artista":"Raye Bahike","album":"The Light Below","genero":"Cumbia"},
-{"artista":"Tori Ygou","album":"Night Whispers","genero":"World Music"},
-{"artista":"Gleda Hucquart","album":"Infinite Road","genero":"Techno"},
-{"artista":"Cathrin Gurton","album":"The Light Below","genero":"Country"},
-{"artista":"Richmound Gadsby","album":"Glass Wings","genero":"Rap"},
-{"artista":"Burtie Thornally","album":"Static Heart","genero":"Pop"},
-{"artista":"Corrianne Neggrini","album":"Crystal Vibes","genero":"Hardcore"},
-{"artista":"Dorian Reason","album":"Golden Dusk","genero":"Rap"},
-{"artista":"Derril Tetsall","album":"The Silent Storm","genero":"Lo-Fi"},
-{"artista":"Chane Batham","album":"Wild Silence","genero":"Soul"},
-{"artista":"Carleen Ingarfield","album":"Urban Rituals","genero":"Indie"},
-{"artista":"Izabel Tschursch","album":"Immortal Bloom","genero":"Heavy Metal"},
-{"artista":"Essy Adamkiewicz","album":"Eternal Pulse","genero":"Synthwave"},
-{"artista":"Cecilio MacCaughey","album":"Aurora Calling","genero":"Bachata"},
-{"artista":"Amargo Dayce","album":"Slow Voltage","genero":"Rap"},
-{"artista":"Leodora Sedgemore","album":"Immortal Bloom","genero":"Country"},
-{"artista":"Gwendolyn Dixie","album":"Hologram Hearts","genero":"Metal"},
-{"artista":"Rosy Carcas","album":"Crystal Vibes","genero":"Indie"},
-{"artista":"Libbi Mateus","album":"Distant Signals","genero":"House"},
-{"artista":"Lonnard Dunridge","album":"Celestial Drift","genero":"Chillout"},
-{"artista":"Gan Manifield","album":"Midnight Echoes","genero":"Tango"},
-{"artista":"Winslow Di Iorio","album":"Eternal Pulse","genero":"Ópera"},
-{"artista":"Forster Hanscombe","album":"Invisible Threads","genero":"Flamenco"},
-{"artista":"Brett Biaggi","album":"Beyond the Shadows","genero":"Lo-Fi"},
-{"artista":"Mycah Mayoh","album":"Broken Mirrors","genero":"Clásica"},
-{"artista":"Lennie Sproston","album":"The Fall and Rise","genero":"Country"},
-{"artista":"Berte By","album":"Edge of Sound","genero":"Folklore"},
-{"artista":"Yule Weatherdon","album":"Night Whispers","genero":"New Age"},
-{"artista":"Mirna Schmuhl","album":"Wild Silence","genero":"Tango"},
-{"artista":"Samson Hewkin","album":"Waking the Giants","genero":"Bachata"},
-{"artista":"Candide Lindeberg","album":"Shadows and Light","genero":"Hip-Hop"},
-{"artista":"Erv Mottini","album":"Immortal Bloom","genero":"Electrónica"},
-{"artista":"Brittany Fawdry","album":"Dark Matter","genero":"Disco"},
-{"artista":"Nickie McMurtyr","album":"Liquid Universe","genero":"Clásica"},
-{"artista":"Aubrey Yellowlees","album":"Edge of Sound","genero":"Flamenco"},
-{"artista":"Corrianne Perett","album":"Blue Hour","genero":"Reggaetón"},
-{"artista":"Brenna Hulk","album":"Beyond the Shadows","genero":"Industrial"},
-{"artista":"Floyd Menlove","album":"Inner Fire","genero":"Jazz"},
-{"artista":"Andra Samsworth","album":"Wild Silence","genero":"Disco"},
-{"artista":"Arlana Eggle","album":"Shadows and Light","genero":"Lo-Fi"},
-{"artista":"Barbabas Mathwin","album":"Neon Skies","genero":"Soul"},
-{"artista":"Wyn Gambrell","album":"Golden Dusk","genero":"Country"},
-{"artista":"Erastus Tarbet","album":"Hidden Realms","genero":"Hip-Hop"},
-{"artista":"Jamaal Jeyes","album":"Soundscapes","genero":"Lo-Fi"},
-{"artista":"Hillier Vidloc","album":"Golden Dusk","genero":"Merengue"},
-{"artista":"Barb Blunsom","album":"Broken Mirrors","genero":"Country"},
-{"artista":"Cris Batey","album":"Mirage Lines","genero":"Country"},
-{"artista":"Eloisa Brindle","album":"Eternal Pulse","genero":"Reggaetón"},
-{"artista":"Ilario Battany","album":"The Light Below","genero":"World Music"},
-{"artista":"Astrix Munby","album":"Echoes of Time","genero":"Reggae"},
-{"artista":"Dolorita Wastell","album":"Shadows and Light","genero":"Disco"},
-{"artista":"Allix Feavearyear","album":"Deep Flow","genero":"Bachata"},
-{"artista":"Mala Laffoley-Lane","album":"Crystal Vibes","genero":"Grunge"},
-{"artista":"Theressa Staves","album":"Static Heart","genero":"Ópera"},
-{"artista":"Rollie Mouat","album":"Velvet Sunset","genero":"Reggaetón"},
-{"artista":"Konstance Beckers","album":"Midnight Echoes","genero":"World Music"},
-{"artista":"Anne Dudmarsh","album":"Inner Fire","genero":"Trance"},
-{"artista":"Filmer Jugging","album":"Soundscapes","genero":"Electrónica"},
-{"artista":"Ree Snaith","album":"Edge of Sound","genero":"Blues"},
-{"artista":"Manfred Leeds","album":"Urban Rituals","genero":"Gospel"},
-{"artista":"Patton Hummerston","album":"Dark Matter","genero":"Drum and Bass"},
-{"artista":"Thain Crampin","album":"Distant Signals","genero":"Cumbia"},
-{"artista":"Ofella Hein","album":"The Fall and Rise","genero":"Gospel"},
-{"artista":"Emanuele Pere","album":"Neon Skies","genero":"Experimental"},
-{"artista":"Jane Scorah","album":"Cosmic Garden","genero":"Rock"},
-{"artista":"Norman Malloch","album":"Midnight Echoes","genero":"Ska"},
-{"artista":"Leland Norfolk","album":"Urban Rituals","genero":"Reggae"},
-{"artista":"Shena Cock","album":"Broken Mirrors","genero":"Afrobeats"},
-{"artista":"Ramsay Infante","album":"Mirage Lines","genero":"Soul"},
-{"artista":"Kathye Merioth","album":"Oceans Within","genero":"Soul"},
-{"artista":"Harriett Costy","album":"The Light Below","genero":"Heavy Metal"},
-{"artista":"Fanechka Bessey","album":"Blue Hour","genero":"Jazz"},
-{"artista":"Maggee Trustey","album":"The Fall and Rise","genero":"Reggaetón"},
-{"artista":"Elna Dispencer","album":"The Silent Storm","genero":"Afrobeats"},
-{"artista":"Maggy Shepherdson","album":"Phantom Beat","genero":"Reggaetón"},
-{"artista":"Virgina Ong","album":"Distant Signals","genero":"Drum and Bass"},
-{"artista":"Yevette Stango","album":"Waking the Giants","genero":"Soul"},
-{"artista":"Petey Ruse","album":"Inner Fire","genero":"Merengue"},
-{"artista":"Bartlett Barcke","album":"The Silent Storm","genero":"Clásica"},
-{"artista":"Dulci Roz","album":"Night Whispers","genero":"Cumbia"},
-{"artista":"Randolph Thorneley","album":"Burning Lights","genero":"Jazz"},
-{"artista":"Meryl Aspinal","album":"Distant Signals","genero":"New Age"},
-{"artista":"Shawn Washbrook","album":"Gravity Shift","genero":"Experimental"},
-{"artista":"Mahmud Johananoff","album":"Invisible Threads","genero":"Blues"},
-{"artista":"Clio Cuer","album":"Shadows and Light","genero":"Heavy Metal"},
-{"artista":"Corene Redding","album":"Infinite Road","genero":"Ópera"},
-{"artista":"Carita Amoore","album":"Cosmic Garden","genero":"Rap"},
-{"artista":"Herby Irdale","album":"Mirage Lines","genero":"Dubstep"},
-{"artista":"Job Prestney","album":"Parallel Lives","genero":"Drum and Bass"},
-{"artista":"Kaylee Whittington","album":"Infinite Road","genero":"J-Pop"},
-{"artista":"Davy Bretelle","album":"Dark Matter","genero":"Ambient"},
-{"artista":"Jerome Scheffel","album":"Inner Fire","genero":"House"},
-{"artista":"Renae Elmhurst","album":"The Other Side","genero":"Techno"},
-{"artista":"Devon Eye","album":"Immortal Bloom","genero":"Jazz"},
-{"artista":"Miof mela Hairyes","album":"Hidden Realms","genero":"Hardcore"},
-{"artista":"Trudy Headley","album":"Edge of Sound","genero":"Salsa"},
-{"artista":"Gerry Howman","album":"Invisible Threads","genero":"Chillout"},
-{"artista":"Ange Forder","album":"Broken Mirrors","genero":"Funk"},
-{"artista":"Idalia Murrhardt","album":"Soul Frequency","genero":"Reggae"},
-{"artista":"Jenelle Beslier","album":"Eternal Pulse","genero":"House"},
-{"artista":"Pearline Gardner","album":"Electric Dreams","genero":"Country"},
-{"artista":"Gaye Kopje","album":"Liquid Universe","genero":"Soul"},
-{"artista":"Ty Giovannoni","album":"Inner Fire","genero":"Synthwave"},
-{"artista":"Gusta Apedaile","album":"Burning Lights","genero":"Gospel"},
-{"artista":"Bab Rhule","album":"Immortal Bloom","genero":"Chillout"},
-{"artista":"Kali Gosz","album":"Distant Signals","genero":"Ambient"},
-{"artista":"Garrett Eccleston","album":"Neon Skies","genero":"Ópera"},
-{"artista":"Dwight Mila","album":"Immortal Bloom","genero":"Indie"},
-{"artista":"Riki Taggett","album":"Phantom Beat","genero":"Industrial"},
-{"artista":"Corissa Zanardii","album":"Golden Dusk","genero":"R&B"},
-{"artista":"Aloysius Croisier","album":"Hologram Hearts","genero":"Chillout"},
-{"artista":"Conn Linnitt","album":"Celestial Drift","genero":"Tango"},
-{"artista":"Myranda Ianilli","album":"Immortal Bloom","genero":"Drum and Bass"},
-{"artista":"Pepita Mailes","album":"Deep Flow","genero":"Experimental"},
-{"artista":"Nevsa Mcasparan","album":"Immortal Bloom","genero":"Indie"},
-{"artista":"Brandie Brackenbury","album":"The Other Side","genero":"Folklore"},
-{"artista":"Silvester Anelay","album":"Edge of Sound","genero":"Bachata"},
-{"artista":"Patrick Hawes","album":"The Fall and Rise","genero":"Ópera"},
-{"artista":"Kearney Harryman","album":"Blood and Rhythm","genero":"Clásica"},
-{"artista":"Jeromy Gell","album":"Deep Flow","genero":"Blues"},
-{"artista":"Ty Brezlaw","album":"Cosmic Garden","genero":"Metal"},
-{"artista":"Janey Kubczak","album":"Inner Fire","genero":"Metal"},
-{"artista":"Ariadne Hainge","album":"Immortal Bloom","genero":"R&B"},
-{"artista":"Petronilla Kerwick","album":"Beyond the Shadows","genero":"Synthwave"},
-{"artista":"Karrie Baukham","album":"Obsidian Soul","genero":"Ambient"},
-{"artista":"Dulcea Kenyon","album":"Shadows and Light","genero":"Clásica"},
-{"artista":"Kate Saich","album":"Urban Rituals","genero":"J-Pop"},
-{"artista":"Alexa Greggs","album":"Obsidian Soul","genero":"Salsa"},
-{"artista":"Edouard Allpress","album":"Parallel Lives","genero":"Techno"},
-{"artista":"Rolando Badcock","album":"Soundscapes","genero":"Cumbia"},
-{"artista":"Maxi Keggins","album":"Eternal Pulse","genero":"Heavy Metal"},
-{"artista":"Iris Madle","album":"Daydream Circuit","genero":"Soul"},
-{"artista":"Trueman Whitington","album":"Night Whispers","genero":"World Music"},
-{"artista":"Hedwig Ingerfield","album":"Moonlight Parade","genero":"Trap"},
-{"artista":"Torrin Cowope","album":"The Other Side","genero":"New Age"},
-{"artista":"Trixie Boffin","album":"Waking the Giants","genero":"Disco"},
-{"artista":"Abram Spoors","album":"Electric Dreams","genero":"Hardcore"},
-{"artista":"Erick Dorney","album":"Eternal Pulse","genero":"Indie"},
-{"artista":"Raf Coslitt","album":"Glass Wings","genero":"Rock"},
-{"artista":"Gwen Stathor","album":"Hologram Hearts","genero":"Funk"},
-{"artista":"Noni Enderson","album":"Shadows and Light","genero":"Techno"},
-{"artista":"Loella Guly","album":"Aurora Calling","genero":"Trap"},
-{"artista":"Bonnee Gaitley","album":"Invisible Threads","genero":"Punk"},
-{"artista":"Clemmie Etchell","album":"Eternal Pulse","genero":"Ambient"},
-{"artista":"Bastian Bowcher","album":"Neon Skies","genero":"Disco"},
-{"artista":"Wilhelmine Cohrs","album":"Electric Dreams","genero":"Disco"},
-{"artista":"Emile Gayther","album":"Blue Hour","genero":"Reggaetón"},
-{"artista":"Lynnett Addess","album":"Immortal Bloom","genero":"Clásica"},
-{"artista":"Charlena Swatheridge","album":"Wild Silence","genero":"K-Pop"},
-{"artista":"Ari Benyan","album":"Broken Mirrors","genero":"Merengue"},
-{"artista":"Carmina Enrdigo","album":"The Silent Storm","genero":"Grunge"},
-{"artista":"Sander McRobbie","album":"Inner Fire","genero":"Flamenco"},
-{"artista":"Ikey MacKilroe","album":"Hologram Hearts","genero":"House"},
-{"artista":"Sherwynd Fairbard","album":"Static Heart","genero":"World Music"},
-{"artista":"Virge Sapson","album":"Mirage Lines","genero":"Country"},
-{"artista":"Tanya Hearnaman","album":"Invisible Threads","genero":"Rock"},
-{"artista":"Trudy Hallen","album":"The Velvet Code","genero":"Salsa"},
-{"artista":"Tasha Clues","album":"Gravity Shift","genero":"Flamenco"},
-{"artista":"Charline Willarton","album":"Blue Hour","genero":"Indie"},
-{"artista":"Melicent Broun","album":"Hologram Hearts","genero":"Afrobeats"},
-{"artista":"Eleanora Perkis","album":"Dark Matter","genero":"J-Pop"},
-{"artista":"Newton Spurret","album":"Aurora Calling","genero":"Indie"},
-{"artista":"Moina Pagel","album":"Dark Matter","genero":"Experimental"},
-{"artista":"Myron Sprules","album":"Gravity Shift","genero":"Punk"},
-{"artista":"Tuckie Mertgen","album":"Electric Dreams","genero":"Ópera"},
-{"artista":"Darrel Braferton","album":"The Light Below","genero":"Experimental"},
-{"artista":"Innis Hamblett","album":"Lost Horizons","genero":"Afrobeats"},
-{"artista":"Wright Dytham","album":"Oceans Within","genero":"World Music"},
-{"artista":"Jasmine Rounsefell","album":"Static Heart","genero":"Synthwave"},
-{"artista":"Sayre Ibbitt","album":"Cosmic Garden","genero":"Heavy Metal"},
-{"artista":"Gaye Hrihorovich","album":"The Other Side","genero":"Merengue"},
-{"artista":"Natalina McNamara","album":"Eternal Pulse","genero":"Jazz"},
-{"artista":"Maxim Kubicki","album":"Shadows and Light","genero":"J-Pop"},
-{"artista":"Laure Lars","album":"Daydream Circuit","genero":"R&B"},
-{"artista":"Shandee Chatfield","album":"Velvet Sunset","genero":"Experimental"},
-{"artista":"Nikaniki Boutellier","album":"Soul Frequency","genero":"Jazz"},
-{"artista":"Juline Trangmar","album":"Midnight Echoes","genero":"Folklore"},
-{"artista":"Patti Iredale","album":"Liquid Universe","genero":"Bachata"},
-{"artista":"Oswell Reimer","album":"The Light Below","genero":"Clásica"},
-{"artista":"Othella Monroe","album":"Immortal Bloom","genero":"Disco"},
-{"artista":"Ali Baake","album":"Wild Silence","genero":"Punk"},
-{"artista":"Cobby Noddles","album":"Oceans Within","genero":"Trance"},
-{"artista":"Koralle Brideoke","album":"Velvet Sunset","genero":"Clásica"},
-{"artista":"Jacqueline Baldin","album":"Mirage Lines","genero":"Trap"},
-{"artista":"Elfrida Klimecki","album":"Golden Dusk","genero":"Funk"},
-{"artista":"Christian Hobgen","album":"Blood and Rhythm","genero":"Heavy Metal"},
-{"artista":"Clarette Labram","album":"Beyond the Shadows","genero":"Salsa"},
-{"artista":"Estelle Watford","album":"Blood and Rhythm","genero":"Tango"},
-{"artista":"Harwell Mapples","album":"Lost Horizons","genero":"Rap"},
-{"artista":"Jeffy Earsman","album":"Burning Lights","genero":"Indie"},
-{"artista":"Tessi Blankley","album":"Phantom Beat","genero":"New Age"},
-{"artista":"Kellia Lawrinson","album":"Electric Dreams","genero":"Chillout"},
-{"artista":"Wenonah Taig","album":"Slow Voltage","genero":"Soul"},
-{"artista":"Shelby Crenage","album":"Liquid Universe","genero":"Ambient"},
-{"artista":"Ketty Baldoni","album":"Moonlight Parade","genero":"Country"},
-{"artista":"Elyssa Jenks","album":"Hologram Hearts","genero":"Trap"},
-{"artista":"Otis Hughlin","album":"Immortal Bloom","genero":"R&B"},
-{"artista":"Gene Gate","album":"Burning Lights","genero":"Synthwave"},
-{"artista":"Ashly Fargher","album":"Cosmic Garden","genero":"Trap"},
-{"artista":"Holli Parlet","album":"Eternal Pulse","genero":"Blues"},
-{"artista":"Abigael Lahy","album":"Static Heart","genero":"Pop"},
-{"artista":"Piggy McCoy","album":"Crystal Vibes","genero":"Hardcore"},
-{"artista":"Gordon Palfery","album":"Electric Dreams","genero":"Grunge"},
-{"artista":"Hedvig Aguilar","album":"Golden Dusk","genero":"Metal"},
-{"artista":"Trenton Tomkowicz","album":"The Velvet Code","genero":"Disco"},
-{"artista":"Aldric Kell","album":"Wild Silence","genero":"Ambient"},
-{"artista":"Brunhilda Billett","album":"Crystal Vibes","genero":"Electrónica"},
-{"artista":"Harmony Beedom","album":"Deep Flow","genero":"Blues"},
-{"artista":"Hugibert Tellenbroker","album":"Distant Signals","genero":"Ambient"},
-{"artista":"Clemmy Gravatt","album":"Broken Mirrors","genero":"Ska"},
-{"artista":"Delphinia Scotchbourouge","album":"Static Heart","genero":"K-Pop"},
-{"artista":"Gilemette Eddolls","album":"Neon Skies","genero":"Pop"},
-{"artista":"Dorice Bagge","album":"Infinite Road","genero":"Reggae"},
-{"artista":"Selia Hauch","album":"Hidden Realms","genero":"Latin Pop"},
-{"artista":"Dom Buckle","album":"Neon Skies","genero":"New Age"},
-{"artista":"Chilton Maides","album":"Hologram Hearts","genero":"Bachata"},
-{"artista":"Violetta Guillain","album":"Eternal Pulse","genero":"Soul"},
-{"artista":"Aggy Duffell","album":"Oceans Within","genero":"Electrónica"},
-{"artista":"Melli Behrend","album":"Daydream Circuit","genero":"Heavy Metal"},
-{"artista":"Petronia Fairbrace","album":"Static Heart","genero":"Experimental"},
-{"artista":"Gerhardt Matthews","album":"Edge of Sound","genero":"Blues"},
-{"artista":"Ines Sickert","album":"Burning Lights","genero":"Tango"},
-{"artista":"Percival Harty","album":"Lost Horizons","genero":"Experimental"},
-{"artista":"Melinda Applegarth","album":"Aurora Calling","genero":"Funk"},
-{"artista":"Antoni Jahan","album":"Lost Horizons","genero":"Grunge"},
-{"artista":"Inglis Volant","album":"Midnight Echoes","genero":"Metal"},
-{"artista":"Ashil Tarplee","album":"Night Whispers","genero":"Blues"},
-{"artista":"Ami Langran","album":"The Velvet Code","genero":"Dubstep"},
-{"artista":"Lucie Orpwood","album":"Celestial Drift","genero":"Reggaetón"},
-{"artista":"Fin Haugh","album":"Neon Skies","genero":"Grunge"},
-{"artista":"Tiena Kilgrove","album":"Deep Flow","genero":"Ska"},
-{"artista":"Kristi Tetford","album":"Infinite Road","genero":"World Music"},
-{"artista":"Hetti Wrathall","album":"Electric Dreams","genero":"Synthwave"},
-{"artista":"Cinnamon Gunner","album":"Midnight Echoes","genero":"Gospel"},
-{"artista":"Tremain Dawtre","album":"Infinite Road","genero":"Lo-Fi"},
-{"artista":"Bing Hindenburg","album":"Static Heart","genero":"Latin Pop"},
-{"artista":"Nichole Broggio","album":"Crystal Vibes","genero":"Afrobeats"},
-{"artista":"Sacha Grinston","album":"Invisible Threads","genero":"Folklore"},
-{"artista":"Blaire Brocks","album":"Beyond the Shadows","genero":"Techno"},
-{"artista":"Bowie Imort","album":"The Light Below","genero":"Gospel"},
-{"artista":"Maggie Shewen","album":"Infinite Road","genero":"Flamenco"},
-{"artista":"Mavra Tomeo","album":"Broken Mirrors","genero":"Reggae"},
-{"artista":"Nye York","album":"Phantom Beat","genero":"Hardcore"},
-{"artista":"Jobie Friary","album":"The Light Below","genero":"Hardcore"},
-{"artista":"Michele Shearme","album":"Slow Voltage","genero":"Ambient"},
-{"artista":"Jania Tireman","album":"Broken Mirrors","genero":"Drum and Bass"},
-{"artista":"Ham Benzi","album":"Neon Skies","genero":"Folklore"},
-{"artista":"Valentine Chopping","album":"The Fall and Rise","genero":"Funk"},
-{"artista":"Baird Timmins","album":"Night Whispers","genero":"Lo-Fi"},
-{"artista":"Misha Rathe","album":"Urban Rituals","genero":"J-Pop"},
-{"artista":"Ronalda Sandey","album":"Aurora Calling","genero":"Punk"},
-{"artista":"Kirk Acreman","album":"Deep Flow","genero":"Ska"},
-{"artista":"Tracee McBratney","album":"Shadows and Light","genero":"Punk"},
-{"artista":"Nappy Wilsdon","album":"Burning Lights","genero":"Funk"},
-{"artista":"Nani Ert","album":"Hologram Hearts","genero":"Ska"},
-{"artista":"Korie Joslin","album":"Gravity Shift","genero":"Electrónica"},
-{"artista":"Jane Shadwick","album":"Daydream Circuit","genero":"Lo-Fi"},
-{"artista":"Carleton Eisak","album":"Hologram Hearts","genero":"Ska"},
-{"artista":"Laurette Lidgate","album":"Hologram Hearts","genero":"Heavy Metal"},
-{"artista":"Fred Common","album":"Deep Flow","genero":"Industrial"},
-{"artista":"Raoul Tibalt","album":"Immortal Bloom","genero":"Folklore"},
-{"artista":"Dionis Mantha","album":"Midnight Echoes","genero":"Lo-Fi"},
-{"artista":"Rae Watters","album":"Distant Signals","genero":"Reggae"},
-{"artista":"Yorke Whartonby","album":"Eternal Pulse","genero":"Synthwave"},
-{"artista":"Randie Martell","album":"Night Whispers","genero":"Heavy Metal"},
-{"artista":"Robin Praill","album":"Celestial Drift","genero":"Rock"},
-{"artista":"Kurt Sworn","album":"The Fall and Rise","genero":"Punk"},
-{"artista":"Welch Chipp","album":"Echoes of Time","genero":"Merengue"},
-{"artista":"Yoshi Kilmary","album":"Deep Flow","genero":"Grunge"},
-{"artista":"Royal Cuddy","album":"Liquid Universe","genero":"Pop"},
-{"artista":"Hebert Pendlenton","album":"Shadows and Light","genero":"Reggaetón"},
-{"artista":"Horten Wybron","album":"The Light Below","genero":"Folklore"},
-{"artista":"Whitney Hyams","album":"Night Whispers","genero":"Lo-Fi"},
-{"artista":"Sterling Mayall","album":"The Fall and Rise","genero":"Blues"},
-{"artista":"Carolin Ineson","album":"Inner Fire","genero":"Chillout"},
-{"artista":"Phylys Carff","album":"Daydream Circuit","genero":"Flamenco"},
-{"artista":"Reinhard Toffaloni","album":"Deep Flow","genero":"Bachata"},
-{"artista":"Linn Brokenshaw","album":"Static Heart","genero":"Jazz"},
-{"artista":"Augustin Smithend","album":"Echoes of Time","genero":"Jazz"},
-{"artista":"Verene Gittoes","album":"Glass Wings","genero":"Hardcore"},
-{"artista":"Stinky Want","album":"Aurora Calling","genero":"Jazz"},
-{"artista":"Trenton Gascard","album":"Mirage Lines","genero":"Funk"},
-{"artista":"Noelani Gotobed","album":"Electric Dreams","genero":"Latin Pop"},
-{"artista":"Chariot Harlick","album":"Eternal Pulse","genero":"Trance"},
-{"artista":"Sarene O'Docherty","album":"Shadows and Light","genero":"Blues"},
-{"artista":"Thibaut Banks","album":"Invisible Threads","genero":"Merengue"},
-{"artista":"Fania Conaboy","album":"Crystal Vibes","genero":"Electrónica"},
-{"artista":"Alvan Horley","album":"Glass Wings","genero":"K-Pop"},
-{"artista":"Sumner Gever","album":"Invisible Threads","genero":"Reggaetón"},
-{"artista":"Darnell Bobasch","album":"Hologram Hearts","genero":"Dubstep"},
-{"artista":"Granthem Habbershon","album":"Immortal Bloom","genero":"Pop"},
-{"artista":"Emmery Perkinson","album":"Obsidian Soul","genero":"Salsa"},
-{"artista":"Ricard Pettiford","album":"Broken Mirrors","genero":"Pop"},
-{"artista":"Meredith Widd","album":"The Other Side","genero":"Reggaetón"},
-{"artista":"Selie Creenan","album":"Hidden Realms","genero":"Disco"},
-{"artista":"Jennilee Pisco","album":"Deep Flow","genero":"Electrónica"},
-{"artista":"Minni MacGaffey","album":"Static Heart","genero":"Rap"},
-{"artista":"Bambi McCamish","album":"Edge of Sound","genero":"Industrial"},
-{"artista":"Britte Odgers","album":"Neon Skies","genero":"Salsa"},
-{"artista":"Jobi Lavens","album":"Lost Horizons","genero":"Tango"},
-{"artista":"Lissa Dunderdale","album":"Urban Rituals","genero":"Disco"},
-{"artista":"Linoel Messer","album":"The Silent Storm","genero":"Ska"},
-{"artista":"Port Niccolls","album":"Parallel Lives","genero":"Reggaetón"},
-{"artista":"Jo Lush","album":"Edge of Sound","genero":"Reggae"},
-{"artista":"Robby Spykings","album":"Mirage Lines","genero":"Reggaetón"},
-{"artista":"Randa Cory","album":"Burning Lights","genero":"J-Pop"},
-{"artista":"Godfry Romayne","album":"Waking the Giants","genero":"Synthwave"},
-{"artista":"Tucky Lowrie","album":"Waking the Giants","genero":"Soul"},
-{"artista":"Jermain Llewellin","album":"Static Heart","genero":"Salsa"},
-{"artista":"Mari Jennrich","album":"Burning Lights","genero":"Trance"},
-{"artista":"Farica Dowse","album":"Deep Flow","genero":"K-Pop"},
-{"artista":"Codi Pimmocke","album":"Night Whispers","genero":"Hardcore"},
-{"artista":"Reinhold Galgey","album":"The Fall and Rise","genero":"Cumbia"},
-{"artista":"Clarey Bear","album":"Parallel Lives","genero":"J-Pop"},
-{"artista":"Barr Primarolo","album":"Glass Wings","genero":"Jazz"},
-{"artista":"Renaud Atteridge","album":"Eternal Pulse","genero":"Latin Pop"},
-{"artista":"Cleavland Ghelardoni","album":"Shadows and Light","genero":"Rock"},
-{"artista":"Dasya Kearney","album":"Infinite Road","genero":"Trap"},
-{"artista":"Logan Sier","album":"Gravity Shift","genero":"Hardcore"},
-{"artista":"Lazaro Gauntley","album":"Aurora Calling","genero":"Pop"},
-{"artista":"Haskell Staries","album":"Soundscapes","genero":"Soul"},
-{"artista":"Eada Bownes","album":"Mirage Lines","genero":"Soul"},
-{"artista":"Flss Dugall","album":"Midnight Echoes","genero":"Clásica"},
-{"artista":"Glendon Cheasman","album":"Lost Horizons","genero":"Ópera"},
-{"artista":"Karel Dunmuir","album":"Shadows and Light","genero":"K-Pop"},
-{"artista":"Briant Mackin","album":"Crystal Vibes","genero":"Country"},
-{"artista":"Merla Messingham","album":"Blood and Rhythm","genero":"Cumbia"},
-{"artista":"Elianore Hastelow","album":"Mirage Lines","genero":"Trap"},
-{"artista":"Jared Lilbourne","album":"Blue Hour","genero":"Heavy Metal"},
-{"artista":"Tania Makiver","album":"The Other Side","genero":"J-Pop"},
-{"artista":"Kale Symms","album":"Distant Signals","genero":"Tango"},
-{"artista":"Mavra Gotcliff","album":"The Velvet Code","genero":"House"},
-{"artista":"Caye Ismirnioglou","album":"Liquid Universe","genero":"Jazz"},
-{"artista":"Melva Sutherns","album":"Neon Skies","genero":"Folklore"},
-{"artista":"Sisile Catonne","album":"Wild Silence","genero":"Soul"},
-{"artista":"Mayor Goldster","album":"Soul Frequency","genero":"Reggaetón"},
-{"artista":"Renaud Haxley","album":"Mirage Lines","genero":"Indie"},
-{"artista":"Phillip Maciejak","album":"Crystal Vibes","genero":"Dubstep"},
-{"artista":"Steffie Sallows","album":"Static Heart","genero":"Trap"},
-{"artista":"Barris Tynemouth","album":"Deep Flow","genero":"Techno"},
-{"artista":"Philipa Bertouloume","album":"Neon Skies","genero":"Bachata"},
-{"artista":"Legra Grebbin","album":"The Other Side","genero":"Clásica"},
-{"artista":"Sol Penrith","album":"Hidden Realms","genero":"Salsa"},
-{"artista":"Dael MacCorley","album":"Urban Rituals","genero":"Afrobeats"},
-{"artista":"Willa Trousdell","album":"Parallel Lives","genero":"Pop"},
-{"artista":"Rose Lisciandro","album":"Electric Dreams","genero":"Latin Pop"},
-{"artista":"Shanie Abson","album":"Wild Silence","genero":"Pop"},
-{"artista":"Elli Riccard","album":"Velvet Sunset","genero":"Clásica"},
-{"artista":"Avigdor Pyburn","album":"Oceans Within","genero":"Ambient"},
-{"artista":"Lauren Dot","album":"Blue Hour","genero":"Hardcore"},
-{"artista":"Cecilia Smardon","album":"Phantom Beat","genero":"Disco"},
-{"artista":"Shantee Nezey","album":"Blue Hour","genero":"Ambient"},
-{"artista":"Saw Birrell","album":"Immortal Bloom","genero":"R&B"},
-{"artista":"Reginald Monard","album":"Mirage Lines","genero":"Latin Pop"},
-{"artista":"Ines Rosenfarb","album":"Mirage Lines","genero":"Pop"},
-{"artista":"Arlin Vaskin","album":"Hologram Hearts","genero":"Gospel"},
-{"artista":"Nefen Siviour","album":"Parallel Lives","genero":"Blues"},
-{"artista":"Claretta Regglar","album":"The Silent Storm","genero":"Ambient"},
-{"artista":"Baird Higgonet","album":"Urban Rituals","genero":"Disco"},
-{"artista":"Elberta McCuish","album":"Liquid Universe","genero":"Funk"},
-{"artista":"Ardelia Rutherfoord","album":"Midnight Echoes","genero":"Industrial"},
-{"artista":"Saundra Samwell","album":"Daydream Circuit","genero":"Cumbia"},
-{"artista":"Diane-marie Tinn","album":"Velvet Sunset","genero":"Pop"},
-{"artista":"Irena Geake","album":"Parallel Lives","genero":"Industrial"},
-{"artista":"Boris Vernon","album":"Daydream Circuit","genero":"Industrial"},
-{"artista":"Charmion Bromige","album":"Mirage Lines","genero":"Rock"},
-{"artista":"Marylinda Baldacco","album":"Phantom Beat","genero":"Hardcore"},
-{"artista":"Shoshana Manshaw","album":"Eternal Pulse","genero":"Tango"},
-{"artista":"Jacquenette Dahler","album":"Wild Silence","genero":"R&B"},
-{"artista":"Kailey Willmore","album":"Obsidian Soul","genero":"Merengue"},
-{"artista":"Eadie Stoodale","album":"Hidden Realms","genero":"Chillout"},
-{"artista":"Melony Pau","album":"Aurora Calling","genero":"Reggaetón"},
-{"artista":"Gina Ryder","album":"Infinite Road","genero":"Ópera"},
-{"artista":"Darren Screeton","album":"Immortal Bloom","genero":"Salsa"},
-{"artista":"Banky Lehrmann","album":"The Fall and Rise","genero":"Lo-Fi"},
-{"artista":"Lilli Askey","album":"Phantom Beat","genero":"Gospel"},
-{"artista":"Jareb Stanborough","album":"Celestial Drift","genero":"Jazz"},
-{"artista":"Benton Phelan","album":"Hidden Realms","genero":"Metal"},
-{"artista":"Chicky Vegas","album":"Glass Wings","genero":"Trance"},
-{"artista":"Shani Cunradi","album":"The Velvet Code","genero":"Pop"},
-{"artista":"Inglebert Leifer","album":"Wild Silence","genero":"Industrial"},
-{"artista":"Jolynn Powder","album":"The Light Below","genero":"Bachata"},
-{"artista":"Foster Barok","album":"The Other Side","genero":"Ambient"},
-{"artista":"Marjie Pires","album":"Hologram Hearts","genero":"Grunge"},
-{"artista":"Kit Aronowicz","album":"Phantom Beat","genero":"Rap"},
-{"artista":"Lory Bartel","album":"Immortal Bloom","genero":"Trance"},
-{"artista":"Donni Trood","album":"Hidden Realms","genero":"Merengue"},
-{"artista":"Edythe Broadstock","album":"The Silent Storm","genero":"Ska"},
-{"artista":"Brody Tevelov","album":"Electric Dreams","genero":"Chillout"},
-{"artista":"Diannne Abyss","album":"Celestial Drift","genero":"Industrial"},
-{"artista":"Damita Whyteman","album":"The Fall and Rise","genero":"Ambient"},
-{"artista":"Rafi Lande","album":"Hidden Realms","genero":"Techno"},
-{"artista":"Benyamin Juste","album":"The Other Side","genero":"Chillout"},
-{"artista":"Susannah Bamborough","album":"Waking the Giants","genero":"Rock"},
-{"artista":"Ian Jamson","album":"Echoes of Time","genero":"Punk"},
-{"artista":"Carolus Pledger","album":"Liquid Universe","genero":"Blues"},
-{"artista":"Ephraim Withnall","album":"Deep Flow","genero":"Jazz"},
-{"artista":"Cristine McNamee","album":"Edge of Sound","genero":"Synthwave"},
-{"artista":"Ysabel Jolin","album":"The Silent Storm","genero":"Grunge"},
-{"artista":"Mile Snowden","album":"Deep Flow","genero":"Bachata"},
-{"artista":"Morrie De Courtney","album":"Golden Dusk","genero":"Rock"},
-{"artista":"Carley Escolme","album":"Moonlight Parade","genero":"Heavy Metal"},
-{"artista":"Gwenora Douce","album":"Soundscapes","genero":"Trap"},
-{"artista":"Debbi Myles","album":"Night Whispers","genero":"Reggae"},
-{"artista":"Rycca Paoloni","album":"Burning Lights","genero":"Ska"},
-{"artista":"Vivianne Durbyn","album":"Liquid Universe","genero":"J-Pop"},
-{"artista":"Gavrielle O'Brien","album":"Phantom Beat","genero":"Country"},
-{"artista":"Addi Foro","album":"Inner Fire","genero":"Trap"},
-{"artista":"Brinn Piddlesden","album":"Invisible Threads","genero":"R&B"},
-{"artista":"Alden Byars","album":"Night Whispers","genero":"R&B"},
-{"artista":"Herb Littlepage","album":"Blue Hour","genero":"Pop"},
-{"artista":"Sargent Pollicatt","album":"The Fall and Rise","genero":"Metal"},
-{"artista":"Dino Mehew","album":"Echoes of Time","genero":"Rap"},
-{"artista":"Elden Ragdale","album":"Beyond the Shadows","genero":"Latin Pop"},
-{"artista":"Frasier Williamson","album":"Parallel Lives","genero":"Electrónica"},
-{"artista":"Hilario Chrippes","album":"The Fall and Rise","genero":"Chillout"},
-{"artista":"Stacey Gommey","album":"Beyond the Shadows","genero":"Chillout"},
-{"artista":"Elisha Salack","album":"Burning Lights","genero":"House"},
-{"artista":"Pyotr Forlonge","album":"Phantom Beat","genero":"R&B"},
-{"artista":"Jessamyn Hambling","album":"Blue Hour","genero":"Ambient"},
-{"artista":"Susan Ayto","album":"Distant Signals","genero":"J-Pop"},
-{"artista":"Timofei Itzkowicz","album":"Distant Signals","genero":"Reggae"},
-{"artista":"Junia Dumingos","album":"Burning Lights","genero":"Flamenco"},
-{"artista":"Nick Floweth","album":"Hologram Hearts","genero":"Salsa"},
-{"artista":"Alexina Gethen","album":"Phantom Beat","genero":"Hip-Hop"},
-{"artista":"Naoma Weatherburn","album":"Hidden Realms","genero":"Reggaetón"},
-{"artista":"Ailsun Franceschelli","album":"Midnight Echoes","genero":"Reggaetón"},
-{"artista":"Abie McKelloch","album":"The Silent Storm","genero":"Merengue"},
-{"artista":"Monro Upham","album":"Deep Flow","genero":"Cumbia"},
-{"artista":"Joel Soeiro","album":"Infinite Road","genero":"K-Pop"},
-{"artista":"Eda Minthorpe","album":"Soundscapes","genero":"Ska"},
-{"artista":"Paquito Sixsmith","album":"Velvet Sunset","genero":"World Music"},
-{"artista":"Rogers Carnie","album":"Invisible Threads","genero":"Jazz"},
-{"artista":"Deva Langabeer","album":"Velvet Sunset","genero":"Lo-Fi"},
-{"artista":"Ted Mafham","album":"Burning Lights","genero":"Latin Pop"},
-{"artista":"Loralie Fugere","album":"Deep Flow","genero":"K-Pop"},
-{"artista":"Cammy Kulver","album":"Beyond the Shadows","genero":"Chillout"},
-{"artista":"Mignon Danielkiewicz","album":"Waking the Giants","genero":"Electrónica"},
-{"artista":"Karola Iglesia","album":"Inner Fire","genero":"Dubstep"},
-{"artista":"Rosemonde Carberry","album":"Soundscapes","genero":"R&B"},
-{"artista":"Stephi Catford","album":"Night Whispers","genero":"Funk"},
-{"artista":"Rufus Ebhardt","album":"Glass Wings","genero":"Heavy Metal"},
-{"artista":"Harrison Plet","album":"Soul Frequency","genero":"Electrónica"},
-{"artista":"Roselia Chansonne","album":"Aurora Calling","genero":"Ambient"},
-{"artista":"Colby Urlin","album":"Electric Dreams","genero":"Tango"},
-{"artista":"Mal Kippins","album":"The Velvet Code","genero":"New Age"},
-{"artista":"Urbanus Pagett","album":"Immortal Bloom","genero":"Flamenco"},
-{"artista":"Wilek Stodart","album":"Distant Signals","genero":"Afrobeats"},
-{"artista":"Oralia Wheelton","album":"Golden Dusk","genero":"Chillout"},
-{"artista":"Carolin Loins","album":"Moonlight Parade","genero":"Clásica"},
-{"artista":"Hildegarde Bourner","album":"Waking the Giants","genero":"Ambient"},
-{"artista":"Glyn Eckh","album":"Broken Mirrors","genero":"Trap"},
-{"artista":"Rem Manns","album":"The Velvet Code","genero":"Punk"},
-{"artista":"Coretta Winn","album":"The Silent Storm","genero":"Bachata"},
-{"artista":"Janaye Lackinton","album":"Mirage Lines","genero":"Hip-Hop"},
-{"artista":"Dwayne Deave","album":"Glass Wings","genero":"Ska"},
-{"artista":"Kessiah Whitwham","album":"Inner Fire","genero":"Disco"},
-{"artista":"Christiano Scolts","album":"Invisible Threads","genero":"Techno"},
-{"artista":"Kellby Palatini","album":"The Velvet Code","genero":"Indie"},
-{"artista":"Kissiah Mardell","album":"Deep Flow","genero":"Trance"},
-{"artista":"Sheela Karpychev","album":"Liquid Universe","genero":"Tango"},
-{"artista":"Albert Corinton","album":"Infinite Road","genero":"Indie"},
-{"artista":"Yoko Sheal","album":"Urban Rituals","genero":"Rap"},
-{"artista":"Antoine Scobbie","album":"Slow Voltage","genero":"Hip-Hop"},
-{"artista":"Jasper Liddyard","album":"Infinite Road","genero":"Gospel"},
-{"artista":"Anderea Fennessy","album":"Mirage Lines","genero":"Lo-Fi"},
-{"artista":"Howie Truett","album":"Aurora Calling","genero":"Bachata"},
-{"artista":"Phyllys Marages","album":"Velvet Sunset","genero":"Experimental"},
-{"artista":"Clywd Tratton","album":"Burning Lights","genero":"Blues"},
-{"artista":"Ellwood Gabits","album":"Midnight Echoes","genero":"Industrial"},
-{"artista":"Garrik Andren","album":"Obsidian Soul","genero":"Latin Pop"},
-{"artista":"Adolph Gillam","album":"Electric Dreams","genero":"Indie"},
-{"artista":"Tanny Creese","album":"Slow Voltage","genero":"R&B"},
-{"artista":"Dyann Emmanueli","album":"Deep Flow","genero":"Rap"},
-{"artista":"Mab Draaisma","album":"Eternal Pulse","genero":"R&B"},
-{"artista":"Issie Cotmore","album":"Urban Rituals","genero":"Techno"},
-{"artista":"Farr Palomba","album":"Mirage Lines","genero":"House"},
-{"artista":"Annette Hammant","album":"Beyond the Shadows","genero":"Trance"},
-{"artista":"Vivienne Lovat","album":"Broken Mirrors","genero":"Salsa"},
-{"artista":"Byrann Jeduch","album":"Mirage Lines","genero":"Blues"},
-{"artista":"Alfy Langhorn","album":"Aurora Calling","genero":"Trance"},
-{"artista":"Cindi Jikovsky","album":"Liquid Universe","genero":"New Age"},
-{"artista":"Towny Glavis","album":"Electric Dreams","genero":"Disco"},
-{"artista":"Shirley Elrick","album":"Urban Rituals","genero":"New Age"},
-{"artista":"Teriann Wicks","album":"Aurora Calling","genero":"Punk"},
-{"artista":"Gianina Skoyles","album":"Soundscapes","genero":"Trance"},
-{"artista":"Vevay Gronauer","album":"Inner Fire","genero":"Reggae"},
-{"artista":"Hollyanne Loffill","album":"Liquid Universe","genero":"Country"},
-{"artista":"Irvin Satterly","album":"Parallel Lives","genero":"Techno"},
-{"artista":"Tabina Hrishchenko","album":"Gravity Shift","genero":"Reggaetón"},
-{"artista":"Lonni Jarrette","album":"Shadows and Light","genero":"Ambient"},
-{"artista":"Reynard Skarr","album":"Lost Horizons","genero":"Heavy Metal"},
-{"artista":"Fanchette Pate","album":"Hidden Realms","genero":"Funk"},
-{"artista":"Neille Gravenell","album":"Midnight Echoes","genero":"Experimental"},
-{"artista":"Fawn Keiling","album":"Midnight Echoes","genero":"Electrónica"},
-{"artista":"Corny Liddall","album":"Lost Horizons","genero":"Rock"},
-{"artista":"Markos Berry","album":"Oceans Within","genero":"Ambient"},
-{"artista":"Rahal Stockdale","album":"Slow Voltage","genero":"Punk"},
-{"artista":"Rennie Neagle","album":"Phantom Beat","genero":"New Age"},
-{"artista":"Bruno Jantel","album":"Moonlight Parade","genero":"Merengue"},
-{"artista":"Austin Ripper","album":"Liquid Universe","genero":"Latin Pop"},
-{"artista":"Lucais Dibner","album":"Night Whispers","genero":"Techno"},
-{"artista":"Helga Merriman","album":"Velvet Sunset","genero":"Tango"},
-{"artista":"Normand Morfell","album":"Cosmic Garden","genero":"Techno"},
-{"artista":"Laetitia Maleby","album":"Phantom Beat","genero":"Hip-Hop"},
-{"artista":"Franky Thorn","album":"Shadows and Light","genero":"Experimental"},
-{"artista":"Barthel Millington","album":"Glass Wings","genero":"Hip-Hop"},
-{"artista":"Carena Amorine","album":"Oceans Within","genero":"Rap"},
-{"artista":"Daphna Czaple","album":"Invisible Threads","genero":"Rap"},
-{"artista":"Vinson Denham","album":"Glass Wings","genero":"Jazz"},
-{"artista":"Lane Oppery","album":"Cosmic Garden","genero":"Chillout"},
-{"artista":"Hasty Escofier","album":"Urban Rituals","genero":"Funk"},
-{"artista":"Esme Rayment","album":"Neon Skies","genero":"Gospel"},
-{"artista":"Brear Flello","album":"Distant Signals","genero":"Flamenco"},
-{"artista":"Trina Thorndycraft","album":"Oceans Within","genero":"Jazz"},
-{"artista":"Arlana Darkin","album":"Deep Flow","genero":"Bachata"},
-{"artista":"Shanda Moreno","album":"Night Whispers","genero":"Tango"},
-{"artista":"Rooney Inott","album":"Parallel Lives","genero":"Latin Pop"},
-{"artista":"Franklyn Bigby","album":"Hologram Hearts","genero":"Hardcore"},
-{"artista":"Buckie Ridsdell","album":"Blood and Rhythm","genero":"Drum and Bass"},
-{"artista":"Ker Passingham","album":"Slow Voltage","genero":"Soul"},
-{"artista":"Marjie Foucher","album":"Eternal Pulse","genero":"Merengue"},
-{"artista":"Niki Dreger","album":"Static Heart","genero":"Heavy Metal"},
-{"artista":"Eustace Corballis","album":"Beyond the Shadows","genero":"Punk"},
-{"artista":"Raff Fellon","album":"Moonlight Parade","genero":"Country"},
-{"artista":"Karleen Berndtssen","album":"Edge of Sound","genero":"Lo-Fi"},
-{"artista":"Georgine Grigoryev","album":"Waking the Giants","genero":"K-Pop"},
-{"artista":"Griffy McCahill","album":"Soul Frequency","genero":"Blues"},
-{"artista":"Stanislaus Dorgan","album":"Aurora Calling","genero":"R&B"},
-{"artista":"Dorolice Thwaite","album":"Moonlight Parade","genero":"Clásica"},
-{"artista":"Francyne Raison","album":"Neon Skies","genero":"Synthwave"},
-{"artista":"Veronica Kiessel","album":"Neon Skies","genero":"Flamenco"},
-{"artista":"Kerrie Vakhonin","album":"Daydream Circuit","genero":"Hip-Hop"},
-{"artista":"Melissa Uridge","album":"Gravity Shift","genero":"Rap"},
-{"artista":"Corabella Godier","album":"Slow Voltage","genero":"Experimental"},
-{"artista":"Boone Brent","album":"Oceans Within","genero":"Trap"},
-{"artista":"Fernande Eltun","album":"Neon Skies","genero":"Latin Pop"},
-{"artista":"Phillipe Ball","album":"The Other Side","genero":"Country"},
-{"artista":"Barbette McLoney","album":"Golden Dusk","genero":"Pop"},
-{"artista":"Kristel Lowseley","album":"Eternal Pulse","genero":"Synthwave"},
-{"artista":"Ros Scotchford","album":"Hidden Realms","genero":"Jazz"},
-{"artista":"Sheila-kathryn Ferenc","album":"Night Whispers","genero":"Rap"},
-{"artista":"Ricki Stukings","album":"The Light Below","genero":"Drum and Bass"},
-{"artista":"Jennette Kember","album":"Cosmic Garden","genero":"Punk"},
-{"artista":"Niko Croot","album":"Glass Wings","genero":"Reggaetón"},
-{"artista":"Lilli Nevill","album":"Daydream Circuit","genero":"R&B"},
-{"artista":"Quinn Doxsey","album":"Gravity Shift","genero":"Blues"},
-{"artista":"Jock Codd","album":"Gravity Shift","genero":"Cumbia"},
-{"artista":"Tibold Worham","album":"Electric Dreams","genero":"J-Pop"},
-{"artista":"Tobie Eighteen","album":"Hidden Realms","genero":"Country"},
-{"artista":"Abner Sander","album":"Beyond the Shadows","genero":"Metal"},
-{"artista":"Janetta Bernholt","album":"Oceans Within","genero":"K-Pop"},
-{"artista":"Mallory Piolli","album":"Glass Wings","genero":"Industrial"},
-{"artista":"Jorry Healeas","album":"Distant Signals","genero":"Latin Pop"},
-{"artista":"Emmaline Danaher","album":"Golden Dusk","genero":"Clásica"},
-{"artista":"Charita Raffon","album":"Eternal Pulse","genero":"Grunge"},
-{"artista":"Stefania Mapis","album":"Static Heart","genero":"Latin Pop"},
-{"artista":"Clarisse Sawdy","album":"Neon Skies","genero":"Heavy Metal"},
-{"artista":"Welby Bembrick","album":"Blood and Rhythm","genero":"Rock"},
-{"artista":"Nathaniel Duncklee","album":"Static Heart","genero":"Latin Pop"},
-{"artista":"Adelheid Satch","album":"Phantom Beat","genero":"Clásica"},
-{"artista":"Marlane Atheis","album":"Broken Mirrors","genero":"Folklore"},
-{"artista":"Ambrosi Navarro","album":"Invisible Threads","genero":"Techno"},
-{"artista":"Audrie Ferrucci","album":"Soundscapes","genero":"Latin Pop"},
-{"artista":"Kally Simco","album":"The Other Side","genero":"Salsa"},
-{"artista":"Eveleen Moreno","album":"Glass Wings","genero":"House"},
-{"artista":"Deva Royce","album":"Electric Dreams","genero":"Heavy Metal"},
-{"artista":"Blake Walisiak","album":"Echoes of Time","genero":"Metal"},
-{"artista":"Mellisa Laight","album":"Wild Silence","genero":"Lo-Fi"},
-{"artista":"Ewart Hakonsen","album":"Distant Signals","genero":"Pop"},
-{"artista":"Garrett Kettridge","album":"Aurora Calling","genero":"Chillout"},
-{"artista":"Darci Kubu","album":"Obsidian Soul","genero":"Dubstep"},
-{"artista":"Alane Lettington","album":"Wild Silence","genero":"Trance"},
-{"artista":"Orbadiah Da Costa","album":"Glass Wings","genero":"Drum and Bass"},
-{"artista":"Margit Wildey","album":"Obsidian Soul","genero":"Funk"},
-{"artista":"Bonny Grinter","album":"Hologram Hearts","genero":"Disco"},
-{"artista":"Meghann Suart","album":"Broken Mirrors","genero":"Reggae"},
-{"artista":"Teador Olufsen","album":"Gravity Shift","genero":"Ópera"},
-{"artista":"Ed Joannic","album":"Liquid Universe","genero":"Pop"},
-{"artista":"Latrina Hannam","album":"The Silent Storm","genero":"Reggae"},
-{"artista":"Devin Reneke","album":"The Fall and Rise","genero":"Reggaetón"},
-{"artista":"Terrie Farncombe","album":"Blood and Rhythm","genero":"Disco"},
-{"artista":"Wiley Duggary","album":"The Silent Storm","genero":"Ambient"},
-{"artista":"Donavon Wastall","album":"Edge of Sound","genero":"Merengue"},
-{"artista":"Marylou Climie","album":"The Velvet Code","genero":"Blues"},
-{"artista":"Terry Bazek","album":"Wild Silence","genero":"Industrial"},
-{"artista":"Marena Colliford","album":"Crystal Vibes","genero":"Merengue"},
-{"artista":"Noah Steventon","album":"The Fall and Rise","genero":"Techno"},
-{"artista":"Harcourt Haylands","album":"Daydream Circuit","genero":"Merengue"},
-{"artista":"Lydia Pettingill","album":"Eternal Pulse","genero":"J-Pop"},
-{"artista":"Silva Knivett","album":"Liquid Universe","genero":"Folklore"},
-{"artista":"Bartlett Kale","album":"Infinite Road","genero":"Folklore"},
-{"artista":"Conrad Cashell","album":"The Silent Storm","genero":"Clásica"},
-{"artista":"Derick Wynter","album":"Inner Fire","genero":"Country"},
-{"artista":"Gibbie Egarr","album":"Celestial Drift","genero":"Gospel"},
-{"artista":"Nalani Thomassin","album":"The Silent Storm","genero":"Ópera"},
-{"artista":"Jarred Woan","album":"Crystal Vibes","genero":"Clásica"},
-{"artista":"Issi Schild","album":"Beyond the Shadows","genero":"Trance"},
-{"artista":"Gerri Garlick","album":"Hidden Realms","genero":"Punk"},
-{"artista":"Odelinda Mollett","album":"Soul Frequency","genero":"Punk"},
-{"artista":"Othilie Pavlenkov","album":"Hologram Hearts","genero":"Hardcore"},
-{"artista":"Cher Barz","album":"The Other Side","genero":"Drum and Bass"},
-{"artista":"Hortensia Monteith","album":"Cosmic Garden","genero":"House"},
-{"artista":"Lem Kowalski","album":"Lost Horizons","genero":"Ska"},
-{"artista":"Fredrick Kabos","album":"Infinite Road","genero":"Flamenco"},
-{"artista":"Morganne Keson","album":"Oceans Within","genero":"Experimental"},
-{"artista":"Dudley Braywood","album":"Parallel Lives","genero":"Tango"},
-{"artista":"Wylie Kynett","album":"Blue Hour","genero":"House"},
-{"artista":"Dante Burmaster","album":"Hidden Realms","genero":"World Music"},
-{"artista":"Bethany Skellorne","album":"Daydream Circuit","genero":"J-Pop"},
-{"artista":"Kariotta Whiffin","album":"Mirage Lines","genero":"Salsa"},
-{"artista":"Roz Sidworth","album":"Dark Matter","genero":"Experimental"},
-{"artista":"Sonni Rowley","album":"Golden Dusk","genero":"Disco"},
-{"artista":"Violet Sellick","album":"Aurora Calling","genero":"Heavy Metal"},
-{"artista":"Frasco Schroter","album":"Beyond the Shadows","genero":"Grunge"},
-{"artista":"Daffy Smogur","album":"Immortal Bloom","genero":"Chillout"},
-{"artista":"Evin Leckie","album":"Inner Fire","genero":"Indie"},
-{"artista":"Melanie Naulls","album":"Static Heart","genero":"Reggaetón"},
-{"artista":"Mira Greenhowe","album":"Golden Dusk","genero":"Soul"},
-{"artista":"Murdock McCurry","album":"Phantom Beat","genero":"Experimental"},
-{"artista":"Bettina Coomes","album":"The Velvet Code","genero":"Ska"},
-{"artista":"Tiffy Birk","album":"Wild Silence","genero":"Hardcore"},
-{"artista":"Dacey Stoggles","album":"Blood and Rhythm","genero":"Heavy Metal"},
-{"artista":"Arel Skym","album":"Blood and Rhythm","genero":"Trap"},
-{"artista":"Howey O'Dreain","album":"Golden Dusk","genero":"Afrobeats"},
-{"artista":"Fonz Eyre","album":"Oceans Within","genero":"Rock"},
-{"artista":"Yoko Brownstein","album":"Infinite Road","genero":"Cumbia"},
-{"artista":"Gleda Stewartson","album":"Golden Dusk","genero":"Flamenco"},
-{"artista":"Demetre Newlands","album":"Electric Dreams","genero":"R&B"},
-{"artista":"Charmaine Pideon","album":"Soul Frequency","genero":"Pop"},
-{"artista":"Jilly Goby","album":"Gravity Shift","genero":"Latin Pop"},
-{"artista":"Lacee Berg","album":"Neon Skies","genero":"R&B"},
-{"artista":"Wenonah Pierro","album":"Phantom Beat","genero":"Latin Pop"},
-{"artista":"Egon Lohde","album":"Crystal Vibes","genero":"Blues"},
-{"artista":"Kareem Roff","album":"Immortal Bloom","genero":"Pop"},
-{"artista":"Christoforo Rockhall","album":"Oceans Within","genero":"Reggae"},
-{"artista":"Adrienne Effemy","album":"Hologram Hearts","genero":"Gospel"},
-{"artista":"Lenka Shrimpling","album":"Crystal Vibes","genero":"Gospel"},
-{"artista":"Florette Easey","album":"Electric Dreams","genero":"Drum and Bass"},
-{"artista":"Alejandra Nestor","album":"Midnight Echoes","genero":"Chillout"},
-{"artista":"Mattie Blockley","album":"Invisible Threads","genero":"Lo-Fi"},
-{"artista":"Brenda Arnley","album":"Obsidian Soul","genero":"Soul"},
-{"artista":"Charleen Bramhill","album":"Shadows and Light","genero":"Latin Pop"},
-{"artista":"Abner Routledge","album":"Celestial Drift","genero":"Cumbia"},
-{"artista":"Gabriela Lovemore","album":"Dark Matter","genero":"Metal"},
-{"artista":"Madelene Batten","album":"Neon Skies","genero":"Trance"},
-{"artista":"Deidre Fairy","album":"Parallel Lives","genero":"Punk"},
-{"artista":"Duane Servant","album":"Obsidian Soul","genero":"Hardcore"},
-{"artista":"Mercy Ferrari","album":"The Light Below","genero":"Hardcore"},
-{"artista":"Averill Bodle","album":"Blue Hour","genero":"Electrónica"},
-{"artista":"Kennan Morrill","album":"Soul Frequency","genero":"Synthwave"},
-{"artista":"Corry Tschersich","album":"Phantom Beat","genero":"Salsa"},
-{"artista":"Marysa Volcker","album":"Urban Rituals","genero":"Gospel"},
-{"artista":"Ilaire Habble","album":"Broken Mirrors","genero":"Trance"},
-{"artista":"Pollyanna Beaney","album":"Infinite Road","genero":"Electrónica"},
-{"artista":"Yettie Piell","album":"Infinite Road","genero":"Ska"},
-{"artista":"Aeriell Marusic","album":"The Other Side","genero":"Techno"},
-{"artista":"Augie Hainey`","album":"Slow Voltage","genero":"Rap"},
-{"artista":"Augusto Matzke","album":"Static Heart","genero":"Chillout"},
-{"artista":"Leia Mundwell","album":"Liquid Universe","genero":"Rock"},
-{"artista":"Lurline Alcoran","album":"Soundscapes","genero":"Cumbia"},
-{"artista":"Noe Dunk","album":"Slow Voltage","genero":"Industrial"},
-{"artista":"Haley Lockery","album":"Slow Voltage","genero":"Latin Pop"},
-{"artista":"Courtney Kyttor","album":"Phantom Beat","genero":"Experimental"}]
+[
+    {
+        "titulo": "Why base",
+        "anio_lanzamiento": 2000,
+        "genero": "Jazz",
+        "artista": {
+            "nombre": "Jennifer",
+            "apellido": "Vazquez",
+            "pais_origen": "South Georgia and the South Sandwich Islands"
+        },
+        "canciones": [
+            {
+                "nombre": "Imagine",
+                "duracion": "4:40"
+            },
+            {
+                "nombre": "Head",
+                "duracion": "2:34"
+            },
+            {
+                "nombre": "Thousand research hospital",
+                "duracion": "2:14"
+            },
+            {
+                "nombre": "End",
+                "duracion": "3:05"
+            },
+            {
+                "nombre": "Include",
+                "duracion": "2:55"
+            },
+            {
+                "nombre": "Discussion",
+                "duracion": "2:00"
+            },
+            {
+                "nombre": "Whom",
+                "duracion": "4:28"
+            },
+            {
+                "nombre": "North opportunity",
+                "duracion": "2:23"
+            },
+            {
+                "nombre": "Government place practice another",
+                "duracion": "3:55"
+            }
+        ]
+    },
+    {
+        "titulo": "Create",
+        "anio_lanzamiento": 1980,
+        "genero": "Electr\u00f3nica",
+        "artista": {
+            "nombre": "Jennifer",
+            "apellido": "Vazquez",
+            "pais_origen": "South Georgia and the South Sandwich Islands"
+        },
+        "canciones": [
+            {
+                "nombre": "Safe describe",
+                "duracion": "5:48"
+            },
+            {
+                "nombre": "Among story",
+                "duracion": "5:54"
+            },
+            {
+                "nombre": "Perhaps",
+                "duracion": "3:35"
+            },
+            {
+                "nombre": "Test great represent",
+                "duracion": "3:10"
+            },
+            {
+                "nombre": "Movie science",
+                "duracion": "3:56"
+            },
+            {
+                "nombre": "Usually",
+                "duracion": "4:12"
+            },
+            {
+                "nombre": "Both south single",
+                "duracion": "2:06"
+            },
+            {
+                "nombre": "Senior",
+                "duracion": "2:41"
+            },
+            {
+                "nombre": "Create catch key",
+                "duracion": "3:58"
+            },
+            {
+                "nombre": "Bar",
+                "duracion": "4:06"
+            },
+            {
+                "nombre": "Pretty",
+                "duracion": "2:09"
+            },
+            {
+                "nombre": "Inside",
+                "duracion": "5:56"
+            },
+            {
+                "nombre": "Front their",
+                "duracion": "4:35"
+            },
+            {
+                "nombre": "Instead class",
+                "duracion": "2:39"
+            },
+            {
+                "nombre": "Improve American writer",
+                "duracion": "3:12"
+            }
+        ]
+    },
+    {
+        "titulo": "Town",
+        "anio_lanzamiento": 2012,
+        "genero": "Funk",
+        "artista": {
+            "nombre": "Anthony",
+            "apellido": "Golden",
+            "pais_origen": "Czech Republic"
+        },
+        "canciones": [
+            {
+                "nombre": "Community campaign",
+                "duracion": "2:32"
+            },
+            {
+                "nombre": "Into rule",
+                "duracion": "2:19"
+            },
+            {
+                "nombre": "Majority",
+                "duracion": "2:17"
+            },
+            {
+                "nombre": "Computer environment",
+                "duracion": "5:00"
+            },
+            {
+                "nombre": "Call religious argue",
+                "duracion": "3:53"
+            },
+            {
+                "nombre": "Knowledge",
+                "duracion": "5:31"
+            },
+            {
+                "nombre": "Report",
+                "duracion": "2:12"
+            }
+        ]
+    },
+    {
+        "titulo": "Near general worry offer",
+        "anio_lanzamiento": 1990,
+        "genero": "Electr\u00f3nica",
+        "artista": {
+            "nombre": "Heather",
+            "apellido": "Anderson",
+            "pais_origen": "Liechtenstein"
+        },
+        "canciones": [
+            {
+                "nombre": "Seat",
+                "duracion": "3:45"
+            },
+            {
+                "nombre": "Training",
+                "duracion": "3:44"
+            },
+            {
+                "nombre": "Decide history",
+                "duracion": "5:41"
+            },
+            {
+                "nombre": "Shake",
+                "duracion": "5:19"
+            },
+            {
+                "nombre": "Southern",
+                "duracion": "5:21"
+            },
+            {
+                "nombre": "Sometimes",
+                "duracion": "2:14"
+            }
+        ]
+    },
+    {
+        "titulo": "Return lot foot southern",
+        "anio_lanzamiento": 2009,
+        "genero": "Cl\u00e1sica",
+        "artista": {
+            "nombre": "Jennifer",
+            "apellido": "Vazquez",
+            "pais_origen": "South Georgia and the South Sandwich Islands"
+        },
+        "canciones": [
+            {
+                "nombre": "Somebody peace rock west foreign",
+                "duracion": "5:46"
+            },
+            {
+                "nombre": "Drop",
+                "duracion": "5:44"
+            },
+            {
+                "nombre": "Word several",
+                "duracion": "5:18"
+            },
+            {
+                "nombre": "Campaign include",
+                "duracion": "3:21"
+            },
+            {
+                "nombre": "Next",
+                "duracion": "3:08"
+            },
+            {
+                "nombre": "Unit these religious over",
+                "duracion": "2:42"
+            },
+            {
+                "nombre": "Also",
+                "duracion": "4:33"
+            }
+        ]
+    },
+    {
+        "titulo": "Growth",
+        "anio_lanzamiento": 1996,
+        "genero": "Trap",
+        "artista": {
+            "nombre": "Patricia",
+            "apellido": "Mason",
+            "pais_origen": "Singapore"
+        },
+        "canciones": [
+            {
+                "nombre": "Significant",
+                "duracion": "5:43"
+            },
+            {
+                "nombre": "Report stage",
+                "duracion": "3:46"
+            },
+            {
+                "nombre": "Everything service plan simply",
+                "duracion": "3:51"
+            },
+            {
+                "nombre": "Behavior knowledge relate",
+                "duracion": "5:03"
+            },
+            {
+                "nombre": "Some",
+                "duracion": "4:27"
+            },
+            {
+                "nombre": "Wind defense moment commercial",
+                "duracion": "5:47"
+            },
+            {
+                "nombre": "Result event",
+                "duracion": "2:21"
+            },
+            {
+                "nombre": "Mother image",
+                "duracion": "5:32"
+            },
+            {
+                "nombre": "Kind girl",
+                "duracion": "4:43"
+            },
+            {
+                "nombre": "Hot",
+                "duracion": "4:53"
+            },
+            {
+                "nombre": "Benefit modern",
+                "duracion": "3:19"
+            }
+        ]
+    },
+    {
+        "titulo": "Leader",
+        "anio_lanzamiento": 2016,
+        "genero": "Trap",
+        "artista": {
+            "nombre": "Steven",
+            "apellido": "Soto",
+            "pais_origen": "Palestinian Territory"
+        },
+        "canciones": [
+            {
+                "nombre": "Before or",
+                "duracion": "3:55"
+            },
+            {
+                "nombre": "Style kind hair",
+                "duracion": "2:48"
+            },
+            {
+                "nombre": "Doctor room",
+                "duracion": "3:32"
+            },
+            {
+                "nombre": "Who",
+                "duracion": "3:31"
+            },
+            {
+                "nombre": "Other attack summer purpose",
+                "duracion": "2:41"
+            },
+            {
+                "nombre": "Instead history with hard",
+                "duracion": "3:30"
+            },
+            {
+                "nombre": "Close because fish tend involve",
+                "duracion": "3:05"
+            },
+            {
+                "nombre": "Admit however with have",
+                "duracion": "5:19"
+            },
+            {
+                "nombre": "Phone price",
+                "duracion": "2:52"
+            },
+            {
+                "nombre": "Executive worry her",
+                "duracion": "3:41"
+            },
+            {
+                "nombre": "Address",
+                "duracion": "5:18"
+            },
+            {
+                "nombre": "Family government",
+                "duracion": "5:53"
+            },
+            {
+                "nombre": "Seek cause whole while",
+                "duracion": "4:40"
+            },
+            {
+                "nombre": "Grow",
+                "duracion": "2:37"
+            },
+            {
+                "nombre": "Different performance green",
+                "duracion": "4:13"
+            }
+        ]
+    },
+    {
+        "titulo": "Ask main",
+        "anio_lanzamiento": 2023,
+        "genero": "Hip-Hop",
+        "artista": {
+            "nombre": "Jennifer",
+            "apellido": "Vazquez",
+            "pais_origen": "South Georgia and the South Sandwich Islands"
+        },
+        "canciones": [
+            {
+                "nombre": "Public strong we",
+                "duracion": "2:32"
+            },
+            {
+                "nombre": "Treatment",
+                "duracion": "3:53"
+            },
+            {
+                "nombre": "Help",
+                "duracion": "3:14"
+            },
+            {
+                "nombre": "Store low",
+                "duracion": "4:59"
+            },
+            {
+                "nombre": "Improve",
+                "duracion": "4:09"
+            },
+            {
+                "nombre": "Deal election",
+                "duracion": "5:05"
+            },
+            {
+                "nombre": "Soon",
+                "duracion": "4:39"
+            }
+        ]
+    },
+    {
+        "titulo": "Race store",
+        "anio_lanzamiento": 2001,
+        "genero": "Rock",
+        "artista": {
+            "nombre": "Anthony",
+            "apellido": "Golden",
+            "pais_origen": "Czech Republic"
+        },
+        "canciones": [
+            {
+                "nombre": "Necessary",
+                "duracion": "3:21"
+            },
+            {
+                "nombre": "Down security",
+                "duracion": "3:45"
+            },
+            {
+                "nombre": "Eight task",
+                "duracion": "4:33"
+            },
+            {
+                "nombre": "Seek trade",
+                "duracion": "5:32"
+            },
+            {
+                "nombre": "Why",
+                "duracion": "2:10"
+            },
+            {
+                "nombre": "Line back",
+                "duracion": "2:54"
+            },
+            {
+                "nombre": "Billion in born stop",
+                "duracion": "5:22"
+            }
+        ]
+    },
+    {
+        "titulo": "Her level",
+        "anio_lanzamiento": 1989,
+        "genero": "Hip-Hop",
+        "artista": {
+            "nombre": "Steven",
+            "apellido": "Soto",
+            "pais_origen": "Palestinian Territory"
+        },
+        "canciones": [
+            {
+                "nombre": "Herself always",
+                "duracion": "5:48"
+            },
+            {
+                "nombre": "Better manage",
+                "duracion": "4:09"
+            },
+            {
+                "nombre": "Serious play campaign",
+                "duracion": "2:12"
+            },
+            {
+                "nombre": "Health",
+                "duracion": "4:11"
+            },
+            {
+                "nombre": "Commercial throughout",
+                "duracion": "3:56"
+            },
+            {
+                "nombre": "Skin stay among design",
+                "duracion": "3:29"
+            },
+            {
+                "nombre": "Product",
+                "duracion": "2:55"
+            },
+            {
+                "nombre": "For",
+                "duracion": "5:20"
+            },
+            {
+                "nombre": "Whole",
+                "duracion": "3:39"
+            },
+            {
+                "nombre": "One",
+                "duracion": "5:23"
+            },
+            {
+                "nombre": "Career east",
+                "duracion": "2:56"
+            }
+        ]
+    },
+    {
+        "titulo": "Husband without",
+        "anio_lanzamiento": 2012,
+        "genero": "Electr\u00f3nica",
+        "artista": {
+            "nombre": "Kathy",
+            "apellido": "Caldwell",
+            "pais_origen": "Sweden"
+        },
+        "canciones": [
+            {
+                "nombre": "Bar",
+                "duracion": "3:41"
+            },
+            {
+                "nombre": "Deal rock",
+                "duracion": "4:08"
+            },
+            {
+                "nombre": "All",
+                "duracion": "4:02"
+            },
+            {
+                "nombre": "Per right save",
+                "duracion": "3:49"
+            },
+            {
+                "nombre": "Political",
+                "duracion": "3:14"
+            },
+            {
+                "nombre": "Consumer",
+                "duracion": "5:08"
+            },
+            {
+                "nombre": "Once oil level",
+                "duracion": "5:51"
+            },
+            {
+                "nombre": "Along",
+                "duracion": "5:58"
+            },
+            {
+                "nombre": "Small into send",
+                "duracion": "3:49"
+            }
+        ]
+    },
+    {
+        "titulo": "Prove",
+        "anio_lanzamiento": 1998,
+        "genero": "Indie",
+        "artista": {
+            "nombre": "Jeremy",
+            "apellido": "Moore",
+            "pais_origen": "Finland"
+        },
+        "canciones": [
+            {
+                "nombre": "Determine",
+                "duracion": "2:49"
+            },
+            {
+                "nombre": "Half against activity true",
+                "duracion": "2:22"
+            },
+            {
+                "nombre": "Reach moment",
+                "duracion": "2:52"
+            },
+            {
+                "nombre": "Class",
+                "duracion": "4:55"
+            },
+            {
+                "nombre": "Media coach",
+                "duracion": "4:51"
+            },
+            {
+                "nombre": "Outside",
+                "duracion": "3:15"
+            },
+            {
+                "nombre": "North similar",
+                "duracion": "3:43"
+            },
+            {
+                "nombre": "Wear rock",
+                "duracion": "5:29"
+            },
+            {
+                "nombre": "Attention PM piece",
+                "duracion": "5:22"
+            },
+            {
+                "nombre": "Help under",
+                "duracion": "4:14"
+            },
+            {
+                "nombre": "Explain table short thought hospital",
+                "duracion": "2:18"
+            }
+        ]
+    },
+    {
+        "titulo": "Space",
+        "anio_lanzamiento": 2002,
+        "genero": "Electr\u00f3nica",
+        "artista": {
+            "nombre": "Keith",
+            "apellido": "Nichols",
+            "pais_origen": "Antarctica (the territory South of 60 deg S)"
+        },
+        "canciones": [
+            {
+                "nombre": "Side",
+                "duracion": "5:30"
+            },
+            {
+                "nombre": "International benefit service clearly",
+                "duracion": "3:01"
+            },
+            {
+                "nombre": "Mrs become design Mrs",
+                "duracion": "4:27"
+            },
+            {
+                "nombre": "Artist determine",
+                "duracion": "2:51"
+            },
+            {
+                "nombre": "That operation site billion",
+                "duracion": "4:03"
+            },
+            {
+                "nombre": "Large spring visit",
+                "duracion": "5:57"
+            }
+        ]
+    },
+    {
+        "titulo": "Manager person including",
+        "anio_lanzamiento": 2006,
+        "genero": "Rock",
+        "artista": {
+            "nombre": "Jennifer",
+            "apellido": "Vazquez",
+            "pais_origen": "South Georgia and the South Sandwich Islands"
+        },
+        "canciones": [
+            {
+                "nombre": "Everything land",
+                "duracion": "5:10"
+            },
+            {
+                "nombre": "Set",
+                "duracion": "3:37"
+            },
+            {
+                "nombre": "Anything",
+                "duracion": "4:06"
+            },
+            {
+                "nombre": "Then",
+                "duracion": "5:49"
+            },
+            {
+                "nombre": "Party north",
+                "duracion": "4:47"
+            },
+            {
+                "nombre": "Director",
+                "duracion": "4:49"
+            },
+            {
+                "nombre": "These",
+                "duracion": "5:55"
+            },
+            {
+                "nombre": "South town",
+                "duracion": "5:37"
+            },
+            {
+                "nombre": "Travel thought safe",
+                "duracion": "4:36"
+            },
+            {
+                "nombre": "Whatever him treat",
+                "duracion": "5:40"
+            },
+            {
+                "nombre": "Sit current section field",
+                "duracion": "5:38"
+            },
+            {
+                "nombre": "Store smile itself",
+                "duracion": "3:05"
+            },
+            {
+                "nombre": "Whole",
+                "duracion": "4:06"
+            },
+            {
+                "nombre": "Cup throw",
+                "duracion": "4:21"
+            },
+            {
+                "nombre": "Him no myself draw",
+                "duracion": "3:23"
+            }
+        ]
+    },
+    {
+        "titulo": "Push",
+        "anio_lanzamiento": 1997,
+        "genero": "Jazz",
+        "artista": {
+            "nombre": "Kathy",
+            "apellido": "Caldwell",
+            "pais_origen": "Sweden"
+        },
+        "canciones": [
+            {
+                "nombre": "Everyone even yourself",
+                "duracion": "2:45"
+            },
+            {
+                "nombre": "And",
+                "duracion": "4:12"
+            },
+            {
+                "nombre": "Remember",
+                "duracion": "3:34"
+            },
+            {
+                "nombre": "Number",
+                "duracion": "3:28"
+            },
+            {
+                "nombre": "Near condition",
+                "duracion": "4:28"
+            },
+            {
+                "nombre": "Level",
+                "duracion": "5:59"
+            },
+            {
+                "nombre": "Against authority",
+                "duracion": "5:32"
+            },
+            {
+                "nombre": "Environment central note",
+                "duracion": "2:40"
+            },
+            {
+                "nombre": "Bit",
+                "duracion": "3:07"
+            }
+        ]
+    },
+    {
+        "titulo": "Fear note",
+        "anio_lanzamiento": 1997,
+        "genero": "Funk",
+        "artista": {
+            "nombre": "Anthony",
+            "apellido": "Golden",
+            "pais_origen": "Czech Republic"
+        },
+        "canciones": [
+            {
+                "nombre": "Quickly production",
+                "duracion": "2:08"
+            },
+            {
+                "nombre": "Hit decision loss positive issue",
+                "duracion": "2:46"
+            },
+            {
+                "nombre": "Special top though reduce modern",
+                "duracion": "5:56"
+            },
+            {
+                "nombre": "Sort",
+                "duracion": "4:19"
+            },
+            {
+                "nombre": "Drug everything full",
+                "duracion": "3:45"
+            },
+            {
+                "nombre": "Turn for cell",
+                "duracion": "2:39"
+            },
+            {
+                "nombre": "Risk",
+                "duracion": "5:44"
+            },
+            {
+                "nombre": "Include ago",
+                "duracion": "4:21"
+            },
+            {
+                "nombre": "For",
+                "duracion": "5:31"
+            },
+            {
+                "nombre": "Still bag",
+                "duracion": "3:41"
+            }
+        ]
+    },
+    {
+        "titulo": "These sport",
+        "anio_lanzamiento": 1998,
+        "genero": "Rock",
+        "artista": {
+            "nombre": "Patricia",
+            "apellido": "Mason",
+            "pais_origen": "Singapore"
+        },
+        "canciones": [
+            {
+                "nombre": "Cell",
+                "duracion": "4:17"
+            },
+            {
+                "nombre": "Role though authority national various",
+                "duracion": "4:16"
+            },
+            {
+                "nombre": "Person once at",
+                "duracion": "5:53"
+            },
+            {
+                "nombre": "Top",
+                "duracion": "3:21"
+            },
+            {
+                "nombre": "World",
+                "duracion": "2:09"
+            },
+            {
+                "nombre": "Party",
+                "duracion": "5:06"
+            },
+            {
+                "nombre": "Wide",
+                "duracion": "3:41"
+            },
+            {
+                "nombre": "Long",
+                "duracion": "2:28"
+            },
+            {
+                "nombre": "Standard",
+                "duracion": "2:13"
+            },
+            {
+                "nombre": "Image hold somebody",
+                "duracion": "5:10"
+            },
+            {
+                "nombre": "Everyone establish run",
+                "duracion": "2:15"
+            },
+            {
+                "nombre": "Because drug",
+                "duracion": "3:54"
+            }
+        ]
+    },
+    {
+        "titulo": "Decision either",
+        "anio_lanzamiento": 2000,
+        "genero": "Reggaeton",
+        "artista": {
+            "nombre": "Brian",
+            "apellido": "Little",
+            "pais_origen": "Maldives"
+        },
+        "canciones": [
+            {
+                "nombre": "Court water door upon",
+                "duracion": "2:47"
+            },
+            {
+                "nombre": "Among",
+                "duracion": "5:55"
+            },
+            {
+                "nombre": "Before two although region official",
+                "duracion": "4:46"
+            },
+            {
+                "nombre": "Ask",
+                "duracion": "2:43"
+            },
+            {
+                "nombre": "Television establish",
+                "duracion": "3:16"
+            },
+            {
+                "nombre": "Rate",
+                "duracion": "3:44"
+            },
+            {
+                "nombre": "Station hot",
+                "duracion": "5:32"
+            },
+            {
+                "nombre": "Away to",
+                "duracion": "3:01"
+            },
+            {
+                "nombre": "News",
+                "duracion": "2:54"
+            },
+            {
+                "nombre": "Condition look",
+                "duracion": "5:09"
+            },
+            {
+                "nombre": "Process group dinner",
+                "duracion": "5:03"
+            }
+        ]
+    },
+    {
+        "titulo": "Travel easy those",
+        "anio_lanzamiento": 2003,
+        "genero": "Reggaeton",
+        "artista": {
+            "nombre": "Patricia",
+            "apellido": "Mason",
+            "pais_origen": "Singapore"
+        },
+        "canciones": [
+            {
+                "nombre": "Real",
+                "duracion": "4:48"
+            },
+            {
+                "nombre": "Approach pressure",
+                "duracion": "2:42"
+            },
+            {
+                "nombre": "Be",
+                "duracion": "4:19"
+            },
+            {
+                "nombre": "These food campaign",
+                "duracion": "3:06"
+            },
+            {
+                "nombre": "Share",
+                "duracion": "2:46"
+            },
+            {
+                "nombre": "End message",
+                "duracion": "5:41"
+            }
+        ]
+    },
+    {
+        "titulo": "Term",
+        "anio_lanzamiento": 2004,
+        "genero": "Trap",
+        "artista": {
+            "nombre": "Jennifer",
+            "apellido": "Vazquez",
+            "pais_origen": "South Georgia and the South Sandwich Islands"
+        },
+        "canciones": [
+            {
+                "nombre": "Account",
+                "duracion": "4:58"
+            },
+            {
+                "nombre": "White whether bed",
+                "duracion": "5:54"
+            },
+            {
+                "nombre": "Who",
+                "duracion": "3:17"
+            },
+            {
+                "nombre": "Usually religious",
+                "duracion": "3:20"
+            },
+            {
+                "nombre": "Scientist",
+                "duracion": "5:26"
+            },
+            {
+                "nombre": "Too",
+                "duracion": "5:29"
+            },
+            {
+                "nombre": "Sea tend decide",
+                "duracion": "2:09"
+            },
+            {
+                "nombre": "Choice imagine activity",
+                "duracion": "4:45"
+            }
+        ]
+    }
+]

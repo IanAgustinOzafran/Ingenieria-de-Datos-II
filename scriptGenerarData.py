@@ -1,5 +1,7 @@
 from pymongo import MongoClient
 
+import json
+
 #Para poder instalar faker
 #   pip install pymongo faker
 from faker import Faker
@@ -35,7 +37,8 @@ def generar_album(artista):
         'titulo': fake.sentence(nb_words=random.randint(1,4)).replace('.', ''),
         'anio_lanzamiento': random.randint(1980, 2024),
         'genero': random.choice(generos_musicales),
-        'artista': artista
+        'artista': artista,
+        'canciones': [{'nombre': fake.sentence(nb_words=random.randint(1, 4)).replace('.', ''), 'duracion': f"{random.randint(2, 5)}:{random.randint(0, 5)}{random.randint(0, 9)}"} for _ in range(random.randint(5, 15))]
     }
     
 # Insertar álbumes
@@ -47,11 +50,22 @@ def insertar_albumes_por_artistas(num_artistas=10, num_albumes=4):
         album = generar_album(random.choice(artistas))
         albumes.append(album)
 
-    resultado = musica_collection.insert_many(albumes)
-    print(f"Insertados {len(resultado.inserted_ids)} álbumes de {num_artistas} artistas.")
+    return albumes
     
 
 
 
 # Ejecutar
 insertar_albumes_por_artistas(10, 20)  # 10 artistas, 20 álbumes 
+
+
+with open('musica.json', 'w') as file:
+    albumes = insertar_albumes_por_artistas(10, 20)
+    json.dump(albumes, file, indent=4)
+    file.close()
+
+with open ('musica.json', 'r') as file:
+    data = json.load(file)
+    
+    for musica in data:
+        print(f"Artista: {musica['artista']}, Álbum: {musica['album']}, Canciones: {musica[{'album': 'canciones'}]}, Genero: {musica['genero']}")
