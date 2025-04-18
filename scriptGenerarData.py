@@ -43,12 +43,12 @@ def insertar_albumes_por_artistas(num_artistas=10, num_albumes=4):
 # Ejecutar
 insertar_albumes_por_artistas(10, 20)  # 10 artistas, 20 álbumes 
 
-with open('musica.json', 'w') as file:
+with open('musica.json', 'w', encoding="utf-8") as file:
     albumes = insertar_albumes_por_artistas(10, 20)
     json.dump(albumes, file, indent=4)
     file.close()
 
-with open ('musica.json', 'r') as file:
+with open ('musica.json', 'r', encoding="utf-8") as file:
     data = json.load(file)
     
     for musica in data:
